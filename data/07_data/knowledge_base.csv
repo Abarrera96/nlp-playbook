@@ -1,0 +1,16 @@
+doc_id,text
+faq_01,Reset your password from account settings using forgot password.
+faq_02,Invoices are generated on the first day of each month.
+faq_03,Shipping address can be updated before dispatch.
+faq_04,Enable two-factor authentication in security settings.
+faq_05,Refund reviews are completed in five business days.
+faq_06,API rate limit is 120 requests per minute on standard plan.
+faq_07,Single sign-on is available on enterprise subscriptions.
+faq_08,Audit logs can be exported from the compliance dashboard.
+faq_09,You can invite teammates from the workspace members panel.
+faq_10,Webhook retries use exponential backoff up to 24 hours.
+faq_11,Data retention can be configured per project in admin settings.
+faq_12,Priority support is available for business and enterprise tiers.
+faq_13,Custom roles can be configured in access control settings.
+faq_14,SSO just-in-time provisioning is supported for SAML providers.
+faq_15,Regional data residency is available in EU and US regions.

@@ -1,0 +1,14 @@
+question,doc_id,expected
+How many days are allowed for full refunds?,policy_1,14 days
+How long do refunds take to process?,policy_1,5 business days
+Is 2FA required for admin users?,policy_2,mandatory
+When does the reset link expire?,policy_2,30 minutes
+What is standard delivery time?,policy_3,3 to 5 business days
+What is international delivery time?,policy_3,up to 12 business days
+How quickly are critical incidents acknowledged?,policy_4,30 minutes
+How quickly are critical incidents resolved?,policy_4,4 hours
+What is included in enterprise contracts?,policy_5,a dedicated account manager and quarterly architecture reviews
+When are invoices issued?,policy_6,the first day of each month
+What is the invoice payment window?,policy_6,15 calendar days
+How often are API credentials rotated?,policy_7,every 90 days
+Which export formats are supported?,policy_8,CSV and Parquet

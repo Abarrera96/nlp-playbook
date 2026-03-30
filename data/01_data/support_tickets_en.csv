@@ -1,0 +1,1001 @@
+ticket_id,raw_text,label
+TCK-00001,"Good morning: My password is rejected even after reset. I opened this through chat with high priority, reference sales team, and this happens only on web.",account_access
+TCK-00002,"Quick request: I cannot complete email verification. I opened this through chat with high priority, reference user USR-441, and we need a fix today.",account_access
+TCK-00003,"Good morning, I am reporting this issue: File upload fails for PDFs. Channel portal, medium priority, reference service API, and this is impacting customer response times.",technical
+TCK-00004,"Need assistance: I received the wrong product. I opened this through portal with high priority, reference tracking TRK-331, and this is impacting customer response times.",shipping
+TCK-00005,"Good morning, The invoice total is incorrect. Reported via portal, high priority, reference order ORD-5561, and this started after the latest release.",billing
+TCK-00006,"Hello support, I need to switch the payment method. Reported via chat, low priority, reference plan PRO, and this affects multiple users.",billing
+TCK-00007,"Good afternoon, I am reporting this issue: Search returns no results. Channel phone, medium priority, reference CRM connector, and this affects multiple users.",technical
+TCK-00008,"Good morning, I am reporting this issue: Tracking has not updated for days. Channel portal, medium priority, reference tracking TRK-992, and we need a fix today.",shipping
+TCK-00009,"Need assistance, I am reporting this issue: I cannot complete email verification. Channel phone, high priority, reference sales team, and this started yesterday.",account_access
+TCK-00010,"Urgent, I cannot enable two-factor authentication. Reported via email, medium priority, reference sales team, and this is impacting customer response times.",account_access
+TCK-00011,"Good afternoon: File upload fails for PDFs. I opened this through email with medium priority, reference admin dashboard, and this started after the latest release.",technical
+TCK-00012,"Need assistance, I am reporting this issue: I need an updated invoice with company tax ID. Channel phone, high priority, reference invoice INV-1021, and this started yesterday.",billing
+TCK-00013,"Hello support, My user appears disabled. Reported via chat, low priority, reference user USR-772, and this affects multiple users.",account_access
+TCK-00014,"Need assistance, File upload fails for PDFs. Sending details through portal, high priority, reference web frontend, and this affects multiple users.",technical
+TCK-00015,"Good morning: The payment failed but money was still taken. I opened this through portal with medium priority, reference subscription SUB-8840, and this blocks our daily operations.",billing
+TCK-00016,"Hi team, I am reporting this issue: There is an unknown charge on my card. Channel phone, low priority, reference plan PRO, and this is impacting customer response times.",billing
+TCK-00017,"Urgent, Billing continued after I canceled. Sending details through portal, medium priority, reference invoice INV-1021, and this started after the latest release.",billing
+TCK-00018,"Hello support: I get logged out immediately. I opened this through portal with high priority, reference sales team, and this is impacting customer response times.",account_access
+TCK-00019,"Urgent, There is an unknown charge on my card. Sending details through chat, low priority, reference order ORD-5561, and this blocks our daily operations.",billing
+TCK-00020,"Quick request: I was charged twice for my monthly plan. I opened this through phone with low priority, reference invoice INV-3044, and this started after the latest release.",billing
+TCK-00021,"Hello support: The courier asked for an unexpected fee. I opened this through phone with high priority, reference order ORD-1102, and this happens only on web.",shipping
+TCK-00022,"Quick request, Sign in fails on mobile but works on web. Reported via email, high priority, reference main tenant, and we need a fix today.",account_access
+TCK-00023,"Urgent, I cannot enable two-factor authentication. Reported via email, medium priority, reference main tenant, and this is impacting customer response times.",account_access
+TCK-00024,"Hi team, I am reporting this issue: The courier asked for an unexpected fee. Channel phone, low priority, reference order ORD-1102, and this affects multiple users.",shipping
+TCK-00025,"Good afternoon, Notifications are delayed by several hours. Sending details through chat, low priority, reference admin dashboard, and this happens only on mobile.",technical
+TCK-00026,"Need assistance, My password is rejected even after reset. Sending details through email, medium priority, reference main tenant, and this blocks our daily operations.",account_access
+TCK-00027,"Please help, SSO login is failing for my team. Sending details through phone, medium priority, reference user USR-441, and we need a fix today.",account_access
+TCK-00028,"Hello support, I was billed for an add-on I did not enable. Reported via portal, medium priority, reference subscription SUB-8840, and this started yesterday.",billing
+TCK-00029,"Hello support, I am reporting this issue: The courier asked for an unexpected fee. Channel email, high priority, reference order ORD-1102, and this started yesterday.",shipping
+TCK-00030,"Urgent, The app crashes when I open the dashboard. Reported via portal, high priority, reference checkout module, and this happens only on web.",technical
+TCK-00031,"Hi team: The integration with our CRM is failing. I opened this through email with high priority, reference service API, and this started yesterday.",technical
+TCK-00032,"Please help, I am reporting this issue: I need to change the delivery address. Channel email, medium priority, reference shipment SHP-9001, and this started after the latest release.",shipping
+TCK-00033,"Urgent, I am reporting this issue: My account is locked. Channel email, low priority, reference user USR-772, and this affects multiple users.",account_access
+TCK-00034,"Please help, I am reporting this issue: The order is marked delivered but I did not receive it. Channel chat, high priority, reference shipment SHP-7654, and this affects multiple users.",shipping
+TCK-00035,"Need assistance: The VAT amount is wrong on the invoice. I opened this through portal with high priority, reference order ORD-5561, and this happens only on mobile.",billing
+TCK-00036,"Urgent: Billing continued after I canceled. I opened this through chat with medium priority, reference invoice INV-3044, and this started after the latest release.",billing
+TCK-00037,"Need assistance: I received the wrong product. I opened this through phone with low priority, reference shipment SHP-7654, and we need a fix today.",shipping
+TCK-00038,"Please help, I am reporting this issue: The screen is blank after login. Channel chat, medium priority, reference admin dashboard, and we need a fix today.",technical
+TCK-00039,"Urgent, The payment failed but money was still taken. Sending details through portal, low priority, reference order ORD-5561, and this affects multiple users.",billing
+TCK-00040,"Quick request: The payment failed but money was still taken. I opened this through email with high priority, reference invoice INV-1021, and we need a fix today.",billing
+TCK-00041,"Please help, The courier delivered to the wrong address. Sending details through portal, medium priority, reference order ORD-1102, and this happens only on web.",shipping
+TCK-00042,"Good morning: I was billed for an add-on I did not enable. I opened this through phone with high priority, reference invoice INV-3044, and this started after the latest release.",billing
+TCK-00043,"Good afternoon, The package arrived damaged. Sending details through portal, medium priority, reference shipment SHP-7654, and we need a fix today.",shipping
+TCK-00044,"Hi team, Customs hold has delayed my package. Reported via phone, medium priority, reference tracking TRK-992, and this is impacting customer response times.",shipping
+TCK-00045,"Please help: The VAT amount is wrong on the invoice. I opened this through portal with high priority, reference subscription SUB-8840, and this affects multiple users.",billing
+TCK-00046,"Please help, I am reporting this issue: I need to change the delivery address. Channel phone, medium priority, reference shipment SHP-7654, and this happens only on mobile.",shipping
+TCK-00047,"Good morning: The parcel box arrived open. I opened this through phone with high priority, reference tracking TRK-331, and this is impacting customer response times.",shipping
+TCK-00048,"Quick request: One item is missing from the shipment. I opened this through chat with high priority, reference shipment SHP-9001, and this started after the latest release.",shipping
+TCK-00049,"Need assistance, I am reporting this issue: Notifications are delayed by several hours. Channel email, high priority, reference checkout module, and this blocks our daily operations.",technical
+TCK-00050,"Good afternoon, I get a timeout when loading reports. Reported via email, high priority, reference web frontend, and this blocks our daily operations.",technical
+TCK-00051,"Need assistance, The website is extremely slow. Reported via portal, high priority, reference checkout module, and this started yesterday.",technical
+TCK-00052,"Quick request, Sign in fails on mobile but works on web. Reported via email, low priority, reference user USR-772, and this happens only on web.",account_access
+TCK-00053,"Good morning: I need to change the delivery address. I opened this through chat with high priority, reference order ORD-1102, and this affects multiple users.",shipping
+TCK-00054,"Need assistance, Search returns no results. Sending details through phone, medium priority, reference checkout module, and this is impacting customer response times.",technical
+TCK-00055,"Need assistance, The payment failed but money was still taken. Reported via email, medium priority, reference plan PRO, and this happens only on web.",billing
+TCK-00056,"Urgent, A refund has not arrived yet. Reported via chat, high priority, reference plan PRO, and this is impacting customer response times.",billing
+TCK-00057,"Hello support, My password is rejected even after reset. Sending details through chat, low priority, reference main tenant, and this affects multiple users.",account_access
+TCK-00058,"Hello support: The order is marked delivered but I did not receive it. I opened this through phone with high priority, reference shipment SHP-9001, and this started yesterday.",shipping
+TCK-00059,"Good afternoon, I need an updated invoice with company tax ID. Reported via portal, high priority, reference plan PRO, and this happens only on mobile.",billing
+TCK-00060,"Urgent, Changes are not being saved. Reported via email, high priority, reference admin dashboard, and this affects multiple users.",technical
+TCK-00061,"Urgent: The screen is blank after login. I opened this through email with high priority, reference service API, and this started yesterday.",technical
+TCK-00062,"Hello support, The payment failed but money was still taken. Reported via chat, low priority, reference plan PRO, and this started yesterday.",billing
+TCK-00063,"Hi team: The export button does nothing. I opened this through portal with high priority, reference web frontend, and this blocks our daily operations.",technical
+TCK-00064,"Quick request, Customs hold has delayed my package. Sending details through chat, medium priority, reference shipment SHP-9001, and this started yesterday.",shipping
+TCK-00065,"Good morning, I am reporting this issue: My password is rejected even after reset. Channel phone, high priority, reference user USR-441, and we need a fix today.",account_access
+TCK-00066,"Urgent: File upload fails for PDFs. I opened this through chat with low priority, reference CRM connector, and this happens only on web.",technical
+TCK-00067,"Good morning, I am reporting this issue: The two-factor code never arrives. Channel chat, high priority, reference sales team, and this blocks our daily operations.",account_access
+TCK-00068,"Good morning, SSO login is failing for my team. Reported via phone, medium priority, reference user USR-772, and this affects multiple users.",account_access
+TCK-00069,"Hi team, My password is rejected even after reset. Sending details through email, high priority, reference user USR-772, and this started yesterday.",account_access
+TCK-00070,"Good afternoon, My discount was not applied. Sending details through phone, medium priority, reference subscription SUB-8840, and this happens only on mobile.",billing
+TCK-00071,"Urgent, The password reset link expired. Reported via chat, high priority, reference sales team, and we need a fix today.",account_access
+TCK-00072,"Good morning, I need to change the delivery address. Sending details through phone, medium priority, reference shipment SHP-7654, and we need a fix today.",shipping
+TCK-00073,"Please help, The payment failed but money was still taken. Reported via portal, medium priority, reference subscription SUB-8840, and this is impacting customer response times.",billing
+TCK-00074,"Urgent: The courier asked for an unexpected fee. I opened this through email with medium priority, reference order ORD-1102, and this is impacting customer response times.",shipping
+TCK-00075,"Good afternoon: I get a timeout when loading reports. I opened this through phone with medium priority, reference CRM connector, and this affects multiple users.",technical
+TCK-00076,"Good morning: My order has not been delivered. I opened this through chat with high priority, reference tracking TRK-992, and this blocks our daily operations.",shipping
+TCK-00077,"Quick request: I cannot enable two-factor authentication. I opened this through portal with low priority, reference main tenant, and this happens only on web.",account_access
+TCK-00078,"Good afternoon: Customs hold has delayed my package. I opened this through chat with medium priority, reference tracking TRK-992, and this started yesterday.",shipping
+TCK-00079,"Good afternoon, The API returns a 500 error. Sending details through email, high priority, reference checkout module, and we need a fix today.",technical
+TCK-00080,"Please help: The courier asked for an unexpected fee. I opened this through chat with low priority, reference tracking TRK-331, and this started after the latest release.",shipping
+TCK-00081,"Quick request, I am reporting this issue: I need to change the delivery address. Channel portal, high priority, reference shipment SHP-9001, and we need a fix today.",shipping
+TCK-00082,"Quick request: I cannot complete email verification. I opened this through portal with medium priority, reference corporate domain, and this affects multiple users.",account_access
+TCK-00083,"Good afternoon, My user appears disabled. Reported via phone, medium priority, reference user USR-441, and this affects multiple users.",account_access
+TCK-00084,"Good morning, Notifications are delayed by several hours. Reported via phone, low priority, reference web frontend, and this started yesterday.",technical
+TCK-00085,"Hi team: File upload fails for PDFs. I opened this through phone with medium priority, reference web frontend, and this blocks our daily operations.",technical
+TCK-00086,"Please help: I need to change my login email. I opened this through portal with high priority, reference corporate domain, and this happens only on web.",account_access
+TCK-00087,"Quick request, The invoice total is incorrect. Sending details through chat, medium priority, reference subscription SUB-8840, and this happens only on mobile.",billing
+TCK-00088,"Good morning, I am reporting this issue: My password is rejected even after reset. Channel chat, low priority, reference user USR-441, and this affects multiple users.",account_access
+TCK-00089,"Hello support, Customs hold has delayed my package. Reported via email, high priority, reference shipment SHP-9001, and this happens only on web.",shipping
+TCK-00090,"Urgent, I received the wrong product. Reported via portal, medium priority, reference shipment SHP-9001, and we need a fix today.",shipping
+TCK-00091,"Hi team: I get a timeout when loading reports. I opened this through phone with medium priority, reference checkout module, and this happens only on web.",technical
+TCK-00092,"Good morning, I received the wrong product. Sending details through phone, medium priority, reference shipment SHP-7654, and this affects multiple users.",shipping
+TCK-00093,"Hi team, I am reporting this issue: The VAT amount is wrong on the invoice. Channel phone, low priority, reference invoice INV-1021, and this affects multiple users.",billing
+TCK-00094,"Good morning, Notifications are delayed by several hours. Sending details through chat, high priority, reference checkout module, and this started yesterday.",technical
+TCK-00095,"Urgent, I need to switch the payment method. Reported via phone, high priority, reference plan PRO, and this blocks our daily operations.",billing
+TCK-00096,"Good afternoon, I received the wrong product. Sending details through email, low priority, reference tracking TRK-992, and we need a fix today.",shipping
+TCK-00097,"Hi team, The package arrived damaged. Sending details through chat, high priority, reference tracking TRK-331, and this happens only on web.",shipping
+TCK-00098,"Hi team, I was charged twice for my monthly plan. Sending details through portal, medium priority, reference order ORD-5561, and this started after the latest release.",billing
+TCK-00099,"Please help, I am reporting this issue: I get logged out immediately. Channel email, low priority, reference user USR-441, and this happens only on mobile.",account_access
+TCK-00100,"Hello support, I cannot log in to my account. Sending details through phone, high priority, reference sales team, and this started after the latest release.",account_access
+TCK-00101,"Hello support, The courier asked for an unexpected fee. Reported via email, low priority, reference shipment SHP-9001, and this happens only on mobile.",shipping
+TCK-00102,"Quick request, I received the wrong product. Sending details through chat, low priority, reference order ORD-1102, and this affects multiple users.",shipping
+TCK-00103,"Good afternoon: Changes are not being saved. I opened this through email with high priority, reference web frontend, and we need a fix today.",technical
+TCK-00104,"Good afternoon, I was billed for an add-on I did not enable. Reported via phone, high priority, reference order ORD-5561, and this happens only on web.",billing
+TCK-00105,"Please help: I need to change my login email. I opened this through chat with high priority, reference user USR-441, and this started after the latest release.",account_access
+TCK-00106,"Good afternoon, My discount was not applied. Reported via chat, medium priority, reference invoice INV-3044, and we need a fix today.",billing
+TCK-00107,"Please help, I am reporting this issue: Notifications are delayed by several hours. Channel email, high priority, reference web frontend, and this blocks our daily operations.",technical
+TCK-00108,"Good afternoon: I was billed for an add-on I did not enable. I opened this through chat with medium priority, reference invoice INV-1021, and this is impacting customer response times.",billing
+TCK-00109,"Hello support, Sign in fails on mobile but works on web. Reported via phone, medium priority, reference main tenant, and this started yesterday.",account_access
+TCK-00110,"Hi team, I am reporting this issue: Notifications are delayed by several hours. Channel phone, medium priority, reference CRM connector, and this blocks our daily operations.",technical
+TCK-00111,"Hello support: The checkout page freezes during payment. I opened this through chat with low priority, reference service API, and this affects multiple users.",technical
+TCK-00112,"Quick request, I am reporting this issue: The parcel box arrived open. Channel phone, low priority, reference shipment SHP-9001, and this happens only on mobile.",shipping
+TCK-00113,"Hello support: I was billed for an add-on I did not enable. I opened this through portal with low priority, reference invoice INV-3044, and this is impacting customer response times.",billing
+TCK-00114,"Good morning, I am reporting this issue: My account is locked. Channel chat, high priority, reference user USR-772, and this started after the latest release.",account_access
+TCK-00115,"Hello support, I was billed for an add-on I did not enable. Reported via portal, high priority, reference invoice INV-1021, and this started after the latest release.",billing
+TCK-00116,"Quick request, The courier delivered to the wrong address. Sending details through email, high priority, reference tracking TRK-992, and this started after the latest release.",shipping
+TCK-00117,"Good afternoon, The parcel box arrived open. Sending details through chat, medium priority, reference order ORD-1102, and this blocks our daily operations.",shipping
+TCK-00118,"Hello support: A refund has not arrived yet. I opened this through phone with high priority, reference invoice INV-3044, and this affects multiple users.",billing
+TCK-00119,"Hello support: The package arrived damaged. I opened this through email with medium priority, reference shipment SHP-7654, and this happens only on mobile.",shipping
+TCK-00120,"Urgent, I need an updated invoice with company tax ID. Sending details through portal, medium priority, reference plan PRO, and we need a fix today.",billing
+TCK-00121,"Good morning, The website is extremely slow. Reported via phone, high priority, reference CRM connector, and this started after the latest release.",technical
+TCK-00122,"Good afternoon, The payment failed but money was still taken. Sending details through portal, high priority, reference invoice INV-1021, and this started after the latest release.",billing
+TCK-00123,"Hello support, I am reporting this issue: The export button does nothing. Channel portal, high priority, reference admin dashboard, and this blocks our daily operations.",technical
+TCK-00124,"Need assistance, I need an updated invoice with company tax ID. Sending details through email, low priority, reference plan PRO, and this started after the latest release.",billing
+TCK-00125,"Please help, The export button does nothing. Sending details through phone, high priority, reference web frontend, and this blocks our daily operations.",technical
+TCK-00126,"Urgent, I am reporting this issue: The invoice total is incorrect. Channel email, medium priority, reference order ORD-5561, and this affects multiple users.",billing
+TCK-00127,"Quick request, Sign in fails on mobile but works on web. Sending details through chat, low priority, reference sales team, and this blocks our daily operations.",account_access
+TCK-00128,"Hi team, I am reporting this issue: The two-factor code never arrives. Channel chat, low priority, reference corporate domain, and this happens only on mobile.",account_access
+TCK-00129,"Urgent, Notifications are delayed by several hours. Sending details through email, low priority, reference web frontend, and we need a fix today.",technical
+TCK-00130,"Hello support: The app crashes when I open the dashboard. I opened this through email with high priority, reference checkout module, and this blocks our daily operations.",technical
+TCK-00131,"Urgent, The integration with our CRM is failing. Sending details through phone, medium priority, reference service API, and this happens only on web.",technical
+TCK-00132,"Need assistance, I am reporting this issue: The order is marked delivered but I did not receive it. Channel email, high priority, reference order ORD-1102, and this started yesterday.",shipping
+TCK-00133,"Need assistance, I need an updated invoice with company tax ID. Reported via portal, low priority, reference invoice INV-3044, and this is impacting customer response times.",billing
+TCK-00134,"Hello support: I was billed for an add-on I did not enable. I opened this through email with low priority, reference invoice INV-3044, and this happens only on web.",billing
+TCK-00135,"Good morning: The website is extremely slow. I opened this through phone with high priority, reference checkout module, and this is impacting customer response times.",technical
+TCK-00136,"Good morning, I need to switch the payment method. Sending details through phone, medium priority, reference invoice INV-1021, and this started after the latest release.",billing
+TCK-00137,"Urgent, I am reporting this issue: A refund has not arrived yet. Channel email, high priority, reference plan PRO, and this started after the latest release.",billing
+TCK-00138,"Hello support, I am reporting this issue: I need to change the delivery address. Channel email, high priority, reference tracking TRK-992, and this happens only on web.",shipping
+TCK-00139,"Hello support, I am reporting this issue: The integration with our CRM is failing. Channel portal, high priority, reference CRM connector, and this blocks our daily operations.",technical
+TCK-00140,"Need assistance: I need to change my login email. I opened this through email with low priority, reference sales team, and this affects multiple users.",account_access
+TCK-00141,"Urgent: The courier delivered to the wrong address. I opened this through phone with medium priority, reference tracking TRK-331, and this happens only on mobile.",shipping
+TCK-00142,"Quick request, There is an unknown charge on my card. Sending details through portal, medium priority, reference order ORD-5561, and this happens only on web.",billing
+TCK-00143,"Good afternoon, File upload fails for PDFs. Reported via portal, high priority, reference web frontend, and this is impacting customer response times.",technical
+TCK-00144,"Quick request, My discount was not applied. Sending details through chat, low priority, reference plan PRO, and this is impacting customer response times.",billing
+TCK-00145,"Good afternoon, Notifications are delayed by several hours. Reported via phone, medium priority, reference CRM connector, and this is impacting customer response times.",technical
+TCK-00146,"Good afternoon, I am reporting this issue: The API returns a 500 error. Channel phone, high priority, reference CRM connector, and we need a fix today.",technical
+TCK-00147,"Quick request, The screen is blank after login. Sending details through chat, medium priority, reference admin dashboard, and this started after the latest release.",technical
+TCK-00148,"Urgent, The two-factor code never arrives. Sending details through portal, high priority, reference user USR-441, and this happens only on web.",account_access
+TCK-00149,"Quick request, The package arrived damaged. Reported via email, low priority, reference shipment SHP-9001, and this started after the latest release.",shipping
+TCK-00150,"Urgent: I get logged out immediately. I opened this through chat with high priority, reference main tenant, and this blocks our daily operations.",account_access
+TCK-00151,"Quick request, Changes are not being saved. Sending details through email, high priority, reference CRM connector, and this affects multiple users.",technical
+TCK-00152,"Need assistance, I get logged out immediately. Reported via chat, low priority, reference sales team, and this is impacting customer response times.",account_access
+TCK-00153,"Good morning, The VAT amount is wrong on the invoice. Reported via portal, medium priority, reference subscription SUB-8840, and this is impacting customer response times.",billing
+TCK-00154,"Hello support, I am reporting this issue: My account is locked. Channel chat, medium priority, reference main tenant, and this happens only on web.",account_access
+TCK-00155,"Good morning, File upload fails for PDFs. Sending details through phone, high priority, reference checkout module, and this is impacting customer response times.",technical
+TCK-00156,"Please help, My password is rejected even after reset. Sending details through chat, medium priority, reference main tenant, and this is impacting customer response times.",account_access
+TCK-00157,"Hello support, I cannot complete email verification. Reported via portal, low priority, reference corporate domain, and this started after the latest release.",account_access
+TCK-00158,"Please help, There is an unknown charge on my card. Sending details through email, medium priority, reference order ORD-5561, and this started after the latest release.",billing
+TCK-00159,"Please help: The order is marked delivered but I did not receive it. I opened this through phone with medium priority, reference tracking TRK-992, and this affects multiple users.",shipping
+TCK-00160,"Good afternoon: I need an updated invoice with company tax ID. I opened this through portal with high priority, reference invoice INV-3044, and this affects multiple users.",billing
+TCK-00161,"Good afternoon: The export button does nothing. I opened this through portal with high priority, reference checkout module, and we need a fix today.",technical
+TCK-00162,"Hi team, I am reporting this issue: I need to change my login email. Channel portal, high priority, reference user USR-772, and this started after the latest release.",account_access
+TCK-00163,"Good afternoon: The checkout page freezes during payment. I opened this through phone with medium priority, reference admin dashboard, and this happens only on web.",technical
+TCK-00164,"Good afternoon, I am reporting this issue: The courier delivered to the wrong address. Channel email, medium priority, reference shipment SHP-7654, and this is impacting customer response times.",shipping
+TCK-00165,"Quick request: The courier delivered to the wrong address. I opened this through phone with low priority, reference tracking TRK-331, and this is impacting customer response times.",shipping
+TCK-00166,"Please help: Search returns no results. I opened this through chat with medium priority, reference checkout module, and this happens only on mobile.",technical
+TCK-00167,"Good morning, The export button does nothing. Sending details through chat, medium priority, reference checkout module, and this happens only on mobile.",technical
+TCK-00168,"Need assistance, SSO login is failing for my team. Sending details through portal, high priority, reference user USR-772, and this is impacting customer response times.",account_access
+TCK-00169,"Urgent, Customs hold has delayed my package. Sending details through portal, medium priority, reference order ORD-1102, and this blocks our daily operations.",shipping
+TCK-00170,"Good morning, I was charged twice for my monthly plan. Sending details through phone, medium priority, reference plan PRO, and this blocks our daily operations.",billing
+TCK-00171,"Good afternoon, The package arrived damaged. Sending details through chat, medium priority, reference shipment SHP-9001, and this affects multiple users.",shipping
+TCK-00172,"Quick request: The order is marked delivered but I did not receive it. I opened this through phone with medium priority, reference shipment SHP-7654, and this started yesterday.",shipping
+TCK-00173,"Urgent: My account is locked. I opened this through email with medium priority, reference corporate domain, and this happens only on web.",account_access
+TCK-00174,"Hi team: The export button does nothing. I opened this through email with high priority, reference web frontend, and this happens only on mobile.",technical
+TCK-00175,"Urgent, I am reporting this issue: I need an updated invoice with company tax ID. Channel email, high priority, reference invoice INV-3044, and this happens only on web.",billing
+TCK-00176,"Hi team, Customs hold has delayed my package. Reported via chat, low priority, reference tracking TRK-992, and this is impacting customer response times.",shipping
+TCK-00177,"Quick request, The password reset link expired. Sending details through chat, high priority, reference sales team, and we need a fix today.",account_access
+TCK-00178,"Need assistance, My password is rejected even after reset. Reported via chat, medium priority, reference corporate domain, and this affects multiple users.",account_access
+TCK-00179,"Good morning, I am reporting this issue: The invoice total is incorrect. Channel phone, medium priority, reference order ORD-5561, and this affects multiple users.",billing
+TCK-00180,"Urgent, I need to change my login email. Sending details through chat, high priority, reference corporate domain, and this started yesterday.",account_access
+TCK-00181,"Good afternoon: File upload fails for PDFs. I opened this through portal with medium priority, reference service API, and this started after the latest release.",technical
+TCK-00182,"Good morning: My user appears disabled. I opened this through email with low priority, reference user USR-772, and this is impacting customer response times.",account_access
+TCK-00183,"Quick request: I cannot complete email verification. I opened this through phone with high priority, reference main tenant, and this is impacting customer response times.",account_access
+TCK-00184,"Urgent, I was charged twice for my monthly plan. Reported via phone, medium priority, reference plan PRO, and this happens only on web.",billing
+TCK-00185,"Good afternoon, I am reporting this issue: File upload fails for PDFs. Channel email, low priority, reference CRM connector, and this affects multiple users.",technical
+TCK-00186,"Good afternoon, I am reporting this issue: The VAT amount is wrong on the invoice. Channel chat, low priority, reference invoice INV-1021, and this happens only on mobile.",billing
+TCK-00187,"Urgent, I am reporting this issue: The API returns a 500 error. Channel portal, high priority, reference checkout module, and this blocks our daily operations.",technical
+TCK-00188,"Hello support, Changes are not being saved. Sending details through chat, low priority, reference checkout module, and this happens only on web.",technical
+TCK-00189,"Hi team: The parcel box arrived open. I opened this through chat with high priority, reference shipment SHP-7654, and we need a fix today.",shipping
+TCK-00190,"Please help, Customs hold has delayed my package. Reported via phone, low priority, reference shipment SHP-9001, and we need a fix today.",shipping
+TCK-00191,"Need assistance, My discount was not applied. Reported via phone, high priority, reference plan PRO, and this affects multiple users.",billing
+TCK-00192,"Quick request: A refund has not arrived yet. I opened this through portal with high priority, reference plan PRO, and this is impacting customer response times.",billing
+TCK-00193,"Please help, I am reporting this issue: My account is locked. Channel phone, low priority, reference user USR-772, and this affects multiple users.",account_access
+TCK-00194,"Need assistance, I was charged twice for my monthly plan. Sending details through chat, low priority, reference plan PRO, and this is impacting customer response times.",billing
+TCK-00195,"Hello support, I am reporting this issue: My password is rejected even after reset. Channel phone, low priority, reference user USR-772, and this affects multiple users.",account_access
+TCK-00196,"Good morning, I am reporting this issue: The checkout page freezes during payment. Channel portal, low priority, reference service API, and this started yesterday.",technical
+TCK-00197,"Good morning, My user appears disabled. Sending details through email, medium priority, reference corporate domain, and this started yesterday.",account_access
+TCK-00198,"Good afternoon, I need an updated invoice with company tax ID. Sending details through portal, low priority, reference invoice INV-3044, and this started yesterday.",billing
+TCK-00199,"Good morning, I am reporting this issue: Tracking has not updated for days. Channel portal, medium priority, reference shipment SHP-7654, and this blocks our daily operations.",shipping
+TCK-00200,"Quick request: My user appears disabled. I opened this through email with medium priority, reference main tenant, and this affects multiple users.",account_access
+TCK-00201,"Hello support: The API returns a 500 error. I opened this through email with medium priority, reference web frontend, and this started yesterday.",technical
+TCK-00202,"Good morning, The two-factor code never arrives. Sending details through portal, high priority, reference main tenant, and we need a fix today.",account_access
+TCK-00203,"Need assistance, The payment failed but money was still taken. Sending details through phone, high priority, reference plan PRO, and we need a fix today.",billing
+TCK-00204,"Hi team, I am reporting this issue: My order has not been delivered. Channel phone, low priority, reference shipment SHP-7654, and this started after the latest release.",shipping
+TCK-00205,"Please help, I am reporting this issue: Customs hold has delayed my package. Channel phone, high priority, reference shipment SHP-7654, and this blocks our daily operations.",shipping
+TCK-00206,"Hi team: I was billed for an add-on I did not enable. I opened this through email with low priority, reference plan PRO, and this started yesterday.",billing
+TCK-00207,"Need assistance: Notifications are delayed by several hours. I opened this through portal with medium priority, reference checkout module, and we need a fix today.",technical
+TCK-00208,"Need assistance, I am reporting this issue: The two-factor code never arrives. Channel portal, high priority, reference corporate domain, and this is impacting customer response times.",account_access
+TCK-00209,"Good afternoon, I cannot complete email verification. Sending details through chat, low priority, reference user USR-441, and this started after the latest release.",account_access
+TCK-00210,"Quick request: The website is extremely slow. I opened this through phone with high priority, reference admin dashboard, and this affects multiple users.",technical
+TCK-00211,"Hello support, I am reporting this issue: The website is extremely slow. Channel portal, low priority, reference service API, and this happens only on mobile.",technical
+TCK-00212,"Urgent: SSO login is failing for my team. I opened this through phone with low priority, reference main tenant, and we need a fix today.",account_access
+TCK-00213,"Hello support: I get logged out immediately. I opened this through email with high priority, reference user USR-441, and this is impacting customer response times.",account_access
+TCK-00214,"Good afternoon, My password is rejected even after reset. Sending details through portal, low priority, reference sales team, and this blocks our daily operations.",account_access
+TCK-00215,"Need assistance: The parcel box arrived open. I opened this through phone with low priority, reference order ORD-1102, and this happens only on mobile.",shipping
+TCK-00216,"Quick request, I am reporting this issue: The payment failed but money was still taken. Channel email, high priority, reference plan PRO, and we need a fix today.",billing
+TCK-00217,"Please help, I am reporting this issue: My password is rejected even after reset. Channel portal, high priority, reference user USR-441, and this started yesterday.",account_access
+TCK-00218,"Urgent, The export button does nothing. Reported via portal, low priority, reference checkout module, and this blocks our daily operations.",technical
+TCK-00219,"Good morning, I am reporting this issue: I get a timeout when loading reports. Channel email, high priority, reference web frontend, and this started after the latest release.",technical
+TCK-00220,"Quick request, I am reporting this issue: The invoice total is incorrect. Channel portal, low priority, reference plan PRO, and this happens only on web.",billing
+TCK-00221,"Hello support: Tracking has not updated for days. I opened this through email with medium priority, reference order ORD-1102, and this happens only on mobile.",shipping
+TCK-00222,"Please help, I am reporting this issue: A refund has not arrived yet. Channel chat, medium priority, reference invoice INV-1021, and this started after the latest release.",billing
+TCK-00223,"Hello support, I am reporting this issue: I need to change the delivery address. Channel email, low priority, reference tracking TRK-992, and we need a fix today.",shipping
+TCK-00224,"Need assistance, Sign in fails on mobile but works on web. Reported via chat, medium priority, reference main tenant, and this started after the latest release.",account_access
+TCK-00225,"Hi team, A refund has not arrived yet. Sending details through portal, high priority, reference order ORD-5561, and we need a fix today.",billing
+TCK-00226,"Need assistance, My discount was not applied. Reported via portal, low priority, reference plan PRO, and this affects multiple users.",billing
+TCK-00227,"Need assistance, My annual plan renewed at the wrong price. Reported via email, medium priority, reference invoice INV-1021, and this is impacting customer response times.",billing
+TCK-00228,"Need assistance: Customs hold has delayed my package. I opened this through email with low priority, reference shipment SHP-7654, and this started yesterday.",shipping
+TCK-00229,"Good morning, Customs hold has delayed my package. Reported via email, medium priority, reference shipment SHP-7654, and this blocks our daily operations.",shipping
+TCK-00230,"Quick request, I am reporting this issue: There is an unknown charge on my card. Channel portal, low priority, reference subscription SUB-8840, and this happens only on web.",billing
+TCK-00231,"Hi team, I am reporting this issue: Search returns no results. Channel phone, high priority, reference checkout module, and this affects multiple users.",technical
+TCK-00232,"Need assistance, Customs hold has delayed my package. Reported via chat, low priority, reference order ORD-1102, and we need a fix today.",shipping
+TCK-00233,"Quick request, I am reporting this issue: I need to switch the payment method. Channel portal, high priority, reference invoice INV-3044, and this blocks our daily operations.",billing
+TCK-00234,"Hello support, My user appears disabled. Sending details through phone, low priority, reference main tenant, and this happens only on web.",account_access
+TCK-00235,"Hello support: The package arrived damaged. I opened this through portal with low priority, reference order ORD-1102, and this started yesterday.",shipping
+TCK-00236,"Quick request: The integration with our CRM is failing. I opened this through phone with low priority, reference admin dashboard, and we need a fix today.",technical
+TCK-00237,"Urgent, I am reporting this issue: I get logged out immediately. Channel email, medium priority, reference sales team, and this started after the latest release.",account_access
+TCK-00238,"Quick request, The password reset link expired. Sending details through chat, low priority, reference corporate domain, and we need a fix today.",account_access
+TCK-00239,"Quick request, I am reporting this issue: The two-factor code never arrives. Channel portal, low priority, reference user USR-772, and this affects multiple users.",account_access
+TCK-00240,"Hi team, I am reporting this issue: The app crashes when I open the dashboard. Channel chat, low priority, reference checkout module, and this started after the latest release.",technical
+TCK-00241,"Need assistance, I am reporting this issue: File upload fails for PDFs. Channel portal, low priority, reference CRM connector, and this happens only on web.",technical
+TCK-00242,"Quick request: I received the wrong product. I opened this through chat with low priority, reference tracking TRK-331, and this happens only on mobile.",shipping
+TCK-00243,"Good morning, My annual plan renewed at the wrong price. Reported via email, high priority, reference subscription SUB-8840, and this blocks our daily operations.",billing
+TCK-00244,"Urgent, I need an updated invoice with company tax ID. Sending details through portal, medium priority, reference order ORD-5561, and we need a fix today.",billing
+TCK-00245,"Quick request, I am reporting this issue: Sign in fails on mobile but works on web. Channel email, high priority, reference user USR-772, and this affects multiple users.",account_access
+TCK-00246,"Hello support, I am reporting this issue: Notifications are delayed by several hours. Channel email, high priority, reference CRM connector, and this happens only on web.",technical
+TCK-00247,"Hello support: The courier asked for an unexpected fee. I opened this through phone with medium priority, reference shipment SHP-7654, and this is impacting customer response times.",shipping
+TCK-00248,"Urgent, The two-factor code never arrives. Reported via phone, high priority, reference user USR-772, and this happens only on web.",account_access
+TCK-00249,"Hello support: The payment failed but money was still taken. I opened this through email with low priority, reference invoice INV-3044, and this is impacting customer response times.",billing
+TCK-00250,"Hello support: My annual plan renewed at the wrong price. I opened this through phone with low priority, reference subscription SUB-8840, and this started after the latest release.",billing
+TCK-00251,"Quick request, I need to change the delivery address. Reported via phone, high priority, reference tracking TRK-992, and we need a fix today.",shipping
+TCK-00252,"Hello support, I am reporting this issue: I cannot enable two-factor authentication. Channel email, high priority, reference corporate domain, and this affects multiple users.",account_access
+TCK-00253,"Hi team: Changes are not being saved. I opened this through email with medium priority, reference web frontend, and this happens only on mobile.",technical
+TCK-00254,"Quick request, Billing continued after I canceled. Sending details through phone, medium priority, reference invoice INV-3044, and this started after the latest release.",billing
+TCK-00255,"Good afternoon, I need to switch the payment method. Sending details through portal, medium priority, reference order ORD-5561, and we need a fix today.",billing
+TCK-00256,"Good afternoon, The screen is blank after login. Reported via chat, high priority, reference admin dashboard, and this is impacting customer response times.",technical
+TCK-00257,"Good afternoon, I am reporting this issue: Sign in fails on mobile but works on web. Channel email, high priority, reference main tenant, and we need a fix today.",account_access
+TCK-00258,"Good afternoon, I am reporting this issue: The VAT amount is wrong on the invoice. Channel phone, low priority, reference order ORD-5561, and we need a fix today.",billing
+TCK-00259,"Quick request: The parcel box arrived open. I opened this through portal with high priority, reference shipment SHP-9001, and we need a fix today.",shipping
+TCK-00260,"Need assistance, I am reporting this issue: File upload fails for PDFs. Channel phone, medium priority, reference CRM connector, and we need a fix today.",technical
+TCK-00261,"Urgent, I am reporting this issue: The screen is blank after login. Channel chat, medium priority, reference admin dashboard, and this affects multiple users.",technical
+TCK-00262,"Need assistance, The app crashes when I open the dashboard. Sending details through chat, medium priority, reference web frontend, and this happens only on web.",technical
+TCK-00263,"Hello support, The order is marked delivered but I did not receive it. Sending details through phone, low priority, reference shipment SHP-9001, and this blocks our daily operations.",shipping
+TCK-00264,"Quick request, I am reporting this issue: The integration with our CRM is failing. Channel chat, low priority, reference service API, and this started after the latest release.",technical
+TCK-00265,"Good afternoon, The payment failed but money was still taken. Sending details through chat, medium priority, reference order ORD-5561, and this is impacting customer response times.",billing
+TCK-00266,"Good morning, File upload fails for PDFs. Sending details through portal, medium priority, reference admin dashboard, and this started after the latest release.",technical
+TCK-00267,"Hello support: I get logged out immediately. I opened this through portal with high priority, reference user USR-441, and this affects multiple users.",account_access
+TCK-00268,"Hello support: My user appears disabled. I opened this through chat with low priority, reference corporate domain, and this happens only on mobile.",account_access
+TCK-00269,"Hi team, The courier delivered to the wrong address. Sending details through email, high priority, reference order ORD-1102, and this affects multiple users.",shipping
+TCK-00270,"Please help, My order has not been delivered. Reported via portal, high priority, reference shipment SHP-7654, and this blocks our daily operations.",shipping
+TCK-00271,"Please help, I am reporting this issue: I was billed for an add-on I did not enable. Channel portal, low priority, reference plan PRO, and this started after the latest release.",billing
+TCK-00272,"Good afternoon: The checkout page freezes during payment. I opened this through chat with high priority, reference CRM connector, and this started after the latest release.",technical
+TCK-00273,"Urgent, Tracking has not updated for days. Sending details through phone, low priority, reference shipment SHP-7654, and this affects multiple users.",shipping
+TCK-00274,"Good morning: I cannot complete email verification. I opened this through chat with medium priority, reference user USR-772, and this blocks our daily operations.",account_access
+TCK-00275,"Hello support, The VAT amount is wrong on the invoice. Reported via portal, medium priority, reference invoice INV-1021, and this started yesterday.",billing
+TCK-00276,"Hi team, I need to change the delivery address. Sending details through email, medium priority, reference shipment SHP-9001, and this happens only on web.",shipping
+TCK-00277,"Good afternoon: The delivery date keeps changing. I opened this through portal with high priority, reference shipment SHP-9001, and this blocks our daily operations.",shipping
+TCK-00278,"Good afternoon, One item is missing from the shipment. Sending details through email, high priority, reference shipment SHP-9001, and this started yesterday.",shipping
+TCK-00279,"Need assistance, I need an updated invoice with company tax ID. Sending details through chat, high priority, reference subscription SUB-8840, and this is impacting customer response times.",billing
+TCK-00280,"Hi team, My order has not been delivered. Sending details through portal, low priority, reference shipment SHP-9001, and this started after the latest release.",shipping
+TCK-00281,"Hi team, I am reporting this issue: The payment failed but money was still taken. Channel phone, high priority, reference order ORD-5561, and this blocks our daily operations.",billing
+TCK-00282,"Hello support, I am reporting this issue: The order is marked delivered but I did not receive it. Channel chat, high priority, reference shipment SHP-9001, and this is impacting customer response times.",shipping
+TCK-00283,"Hi team, The integration with our CRM is failing. Sending details through chat, high priority, reference CRM connector, and this affects multiple users.",technical
+TCK-00284,"Need assistance, My account is locked. Sending details through email, high priority, reference user USR-772, and we need a fix today.",account_access
+TCK-00285,"Hello support: I cannot log in to my account. I opened this through chat with low priority, reference corporate domain, and this happens only on web.",account_access
+TCK-00286,"Hi team, My password is rejected even after reset. Sending details through chat, low priority, reference user USR-441, and this started yesterday.",account_access
+TCK-00287,"Please help, The VAT amount is wrong on the invoice. Sending details through portal, high priority, reference invoice INV-3044, and this started yesterday.",billing
+TCK-00288,"Please help: The payment failed but money was still taken. I opened this through phone with low priority, reference plan PRO, and this started after the latest release.",billing
+TCK-00289,"Hi team, I cannot enable two-factor authentication. Reported via chat, low priority, reference user USR-772, and we need a fix today.",account_access
+TCK-00290,"Good morning, I am reporting this issue: The two-factor code never arrives. Channel chat, high priority, reference user USR-441, and this is impacting customer response times.",account_access
+TCK-00291,"Quick request, I am reporting this issue: Sign in fails on mobile but works on web. Channel email, medium priority, reference user USR-772, and this affects multiple users.",account_access
+TCK-00292,"Quick request, I am reporting this issue: I need to change the delivery address. Channel portal, medium priority, reference tracking TRK-331, and this is impacting customer response times.",shipping
+TCK-00293,"Good afternoon, I received the wrong product. Sending details through phone, low priority, reference shipment SHP-9001, and this happens only on web.",shipping
+TCK-00294,"Good morning, I am reporting this issue: I cannot enable two-factor authentication. Channel chat, low priority, reference sales team, and this started after the latest release.",account_access
+TCK-00295,"Urgent, The order is marked delivered but I did not receive it. Reported via email, medium priority, reference tracking TRK-331, and we need a fix today.",shipping
+TCK-00296,"Hello support, I am reporting this issue: The courier delivered to the wrong address. Channel email, high priority, reference shipment SHP-7654, and this happens only on web.",shipping
+TCK-00297,"Please help, I need to switch the payment method. Sending details through chat, high priority, reference order ORD-5561, and this happens only on web.",billing
+TCK-00298,"Hi team, I am reporting this issue: I need to change my login email. Channel chat, medium priority, reference sales team, and this is impacting customer response times.",account_access
+TCK-00299,"Please help: My password is rejected even after reset. I opened this through portal with medium priority, reference corporate domain, and this is impacting customer response times.",account_access
+TCK-00300,"Quick request, I am reporting this issue: I need to change the delivery address. Channel email, low priority, reference shipment SHP-7654, and this is impacting customer response times.",shipping
+TCK-00301,"Need assistance, I am reporting this issue: The password reset link expired. Channel phone, high priority, reference user USR-441, and this happens only on mobile.",account_access
+TCK-00302,"Quick request: I was charged twice for my monthly plan. I opened this through chat with low priority, reference subscription SUB-8840, and this happens only on mobile.",billing
+TCK-00303,"Quick request, SSO login is failing for my team. Reported via phone, low priority, reference corporate domain, and this affects multiple users.",account_access
+TCK-00304,"Quick request, I am reporting this issue: The integration with our CRM is failing. Channel phone, low priority, reference CRM connector, and this happens only on web.",technical
+TCK-00305,"Good afternoon, The VAT amount is wrong on the invoice. Reported via email, high priority, reference plan PRO, and this blocks our daily operations.",billing
+TCK-00306,"Need assistance, One item is missing from the shipment. Sending details through email, low priority, reference order ORD-1102, and this happens only on web.",shipping
+TCK-00307,"Hello support, My account is locked. Sending details through portal, high priority, reference sales team, and this started after the latest release.",account_access
+TCK-00308,"Please help, One item is missing from the shipment. Sending details through portal, medium priority, reference shipment SHP-7654, and we need a fix today.",shipping
+TCK-00309,"Quick request, I am reporting this issue: I cannot enable two-factor authentication. Channel email, low priority, reference sales team, and this started after the latest release.",account_access
+TCK-00310,"Please help, I am reporting this issue: I get a timeout when loading reports. Channel portal, high priority, reference web frontend, and this is impacting customer response times.",technical
+TCK-00311,"Need assistance, I am reporting this issue: Changes are not being saved. Channel chat, high priority, reference admin dashboard, and this blocks our daily operations.",technical
+TCK-00312,"Good morning: I received the wrong product. I opened this through phone with medium priority, reference tracking TRK-992, and we need a fix today.",shipping
+TCK-00313,"Quick request, I need an updated invoice with company tax ID. Sending details through chat, high priority, reference plan PRO, and this is impacting customer response times.",billing
+TCK-00314,"Hello support, Changes are not being saved. Reported via phone, low priority, reference service API, and this is impacting customer response times.",technical
+TCK-00315,"Hi team, I am reporting this issue: The invoice total is incorrect. Channel portal, medium priority, reference subscription SUB-8840, and this affects multiple users.",billing
+TCK-00316,"Please help, I am reporting this issue: I was charged twice for my monthly plan. Channel email, high priority, reference subscription SUB-8840, and this started yesterday.",billing
+TCK-00317,"Please help, I am reporting this issue: The courier asked for an unexpected fee. Channel phone, medium priority, reference tracking TRK-992, and this happens only on mobile.",shipping
+TCK-00318,"Please help, I am reporting this issue: I cannot complete email verification. Channel portal, medium priority, reference user USR-772, and this started after the latest release.",account_access
+TCK-00319,"Hi team, My annual plan renewed at the wrong price. Reported via phone, high priority, reference invoice INV-3044, and this affects multiple users.",billing
+TCK-00320,"Please help, The website is extremely slow. Sending details through phone, medium priority, reference web frontend, and this affects multiple users.",technical
+TCK-00321,"Please help, Billing continued after I canceled. Sending details through portal, high priority, reference invoice INV-3044, and we need a fix today.",billing
+TCK-00322,"Urgent, I cannot complete email verification. Reported via email, medium priority, reference user USR-441, and this blocks our daily operations.",account_access
+TCK-00323,"Hello support, I cannot complete email verification. Reported via email, low priority, reference user USR-772, and this affects multiple users.",account_access
+TCK-00324,"Urgent: I need to change the delivery address. I opened this through email with high priority, reference tracking TRK-992, and this happens only on web.",shipping
+TCK-00325,"Good afternoon, I need to change my login email. Sending details through email, high priority, reference user USR-441, and this affects multiple users.",account_access
+TCK-00326,"Good afternoon, I am reporting this issue: The package arrived damaged. Channel email, low priority, reference tracking TRK-992, and this is impacting customer response times.",shipping
+TCK-00327,"Hello support, I get logged out immediately. Reported via phone, medium priority, reference sales team, and this started yesterday.",account_access
+TCK-00328,"Urgent, I cannot complete email verification. Sending details through portal, medium priority, reference main tenant, and this happens only on web.",account_access
+TCK-00329,"Hi team: My account is locked. I opened this through phone with medium priority, reference main tenant, and this happens only on web.",account_access
+TCK-00330,"Hi team: The courier asked for an unexpected fee. I opened this through portal with medium priority, reference shipment SHP-7654, and we need a fix today.",shipping
+TCK-00331,"Quick request, The integration with our CRM is failing. Reported via phone, high priority, reference web frontend, and this started after the latest release.",technical
+TCK-00332,"Need assistance, My annual plan renewed at the wrong price. Reported via phone, high priority, reference invoice INV-3044, and this blocks our daily operations.",billing
+TCK-00333,"Good morning, I am reporting this issue: SSO login is failing for my team. Channel email, low priority, reference user USR-441, and this started after the latest release.",account_access
+TCK-00334,"Good afternoon, My discount was not applied. Reported via chat, medium priority, reference invoice INV-1021, and this blocks our daily operations.",billing
+TCK-00335,"Good morning, I am reporting this issue: I cannot enable two-factor authentication. Channel portal, high priority, reference corporate domain, and this is impacting customer response times.",account_access
+TCK-00336,"Good afternoon, I am reporting this issue: A refund has not arrived yet. Channel phone, high priority, reference subscription SUB-8840, and this started yesterday.",billing
+TCK-00337,"Urgent, I get logged out immediately. Reported via portal, medium priority, reference main tenant, and we need a fix today.",account_access
+TCK-00338,"Hello support, The checkout page freezes during payment. Sending details through portal, high priority, reference service API, and this started after the latest release.",technical
+TCK-00339,"Need assistance, Customs hold has delayed my package. Sending details through phone, low priority, reference shipment SHP-9001, and this started yesterday.",shipping
+TCK-00340,"Hello support: The delivery date keeps changing. I opened this through phone with high priority, reference tracking TRK-992, and this started yesterday.",shipping
+TCK-00341,"Urgent, The export button does nothing. Sending details through portal, medium priority, reference CRM connector, and this started after the latest release.",technical
+TCK-00342,"Good afternoon, I am reporting this issue: The delivery date keeps changing. Channel email, medium priority, reference tracking TRK-331, and this started after the latest release.",shipping
+TCK-00343,"Quick request: The API returns a 500 error. I opened this through chat with medium priority, reference service API, and this happens only on web.",technical
+TCK-00344,"Need assistance, I am reporting this issue: Customs hold has delayed my package. Channel portal, high priority, reference shipment SHP-9001, and this affects multiple users.",shipping
+TCK-00345,"Quick request, My account is locked. Sending details through chat, low priority, reference user USR-441, and this started yesterday.",account_access
+TCK-00346,"Quick request, The package arrived damaged. Reported via chat, low priority, reference shipment SHP-9001, and this blocks our daily operations.",shipping
+TCK-00347,"Quick request, I need to switch the payment method. Reported via chat, low priority, reference invoice INV-1021, and we need a fix today.",billing
+TCK-00348,"Please help, I need to change the delivery address. Reported via phone, high priority, reference tracking TRK-331, and this started yesterday.",shipping
+TCK-00349,"Hello support, The order is marked delivered but I did not receive it. Sending details through phone, medium priority, reference shipment SHP-7654, and this affects multiple users.",shipping
+TCK-00350,"Good morning, I am reporting this issue: My annual plan renewed at the wrong price. Channel chat, medium priority, reference subscription SUB-8840, and this blocks our daily operations.",billing
+TCK-00351,"Quick request: I was charged twice for my monthly plan. I opened this through chat with high priority, reference order ORD-5561, and this affects multiple users.",billing
+TCK-00352,"Hi team, I am reporting this issue: One item is missing from the shipment. Channel phone, medium priority, reference tracking TRK-331, and this is impacting customer response times.",shipping
+TCK-00353,"Please help, I am reporting this issue: My account is locked. Channel phone, medium priority, reference corporate domain, and this started yesterday.",account_access
+TCK-00354,"Hi team, I need to change the delivery address. Reported via phone, high priority, reference shipment SHP-7654, and we need a fix today.",shipping
+TCK-00355,"Quick request, I am reporting this issue: Sign in fails on mobile but works on web. Channel email, low priority, reference main tenant, and we need a fix today.",account_access
+TCK-00356,"Hi team, The checkout page freezes during payment. Reported via portal, low priority, reference admin dashboard, and this is impacting customer response times.",technical
+TCK-00357,"Good morning, I need to change my login email. Reported via email, low priority, reference user USR-772, and this is impacting customer response times.",account_access
+TCK-00358,"Need assistance: A refund has not arrived yet. I opened this through email with medium priority, reference plan PRO, and this started yesterday.",billing
+TCK-00359,"Good morning, SSO login is failing for my team. Sending details through portal, low priority, reference user USR-441, and this started after the latest release.",account_access
+TCK-00360,"Please help, I get logged out immediately. Reported via email, low priority, reference corporate domain, and this blocks our daily operations.",account_access
+TCK-00361,"Need assistance, I am reporting this issue: The screen is blank after login. Channel email, medium priority, reference CRM connector, and this blocks our daily operations.",technical
+TCK-00362,"Please help, I cannot log in to my account. Sending details through portal, low priority, reference user USR-772, and this blocks our daily operations.",account_access
+TCK-00363,"Need assistance, Billing continued after I canceled. Reported via portal, low priority, reference plan PRO, and this started yesterday.",billing
+TCK-00364,"Hi team, My user appears disabled. Sending details through portal, high priority, reference user USR-772, and this is impacting customer response times.",account_access
+TCK-00365,"Need assistance, Notifications are delayed by several hours. Reported via chat, high priority, reference admin dashboard, and we need a fix today.",technical
+TCK-00366,"Good morning, I am reporting this issue: I get a timeout when loading reports. Channel email, medium priority, reference CRM connector, and this is impacting customer response times.",technical
+TCK-00367,"Quick request, The order is marked delivered but I did not receive it. Sending details through chat, high priority, reference shipment SHP-7654, and this started yesterday.",shipping
+TCK-00368,"Hello support, I am reporting this issue: There is an unknown charge on my card. Channel phone, medium priority, reference invoice INV-3044, and this is impacting customer response times.",billing
+TCK-00369,"Please help: A refund has not arrived yet. I opened this through email with high priority, reference invoice INV-3044, and we need a fix today.",billing
+TCK-00370,"Quick request, I was billed for an add-on I did not enable. Reported via portal, medium priority, reference invoice INV-1021, and this happens only on mobile.",billing
+TCK-00371,"Good afternoon, The API returns a 500 error. Reported via portal, high priority, reference CRM connector, and this started yesterday.",technical
+TCK-00372,"Quick request, The checkout page freezes during payment. Reported via chat, medium priority, reference checkout module, and this happens only on mobile.",technical
+TCK-00373,"Need assistance, I am reporting this issue: My user appears disabled. Channel chat, low priority, reference user USR-772, and this started yesterday.",account_access
+TCK-00374,"Good morning, I cannot complete email verification. Sending details through email, medium priority, reference sales team, and this started yesterday.",account_access
+TCK-00375,"Good morning, I am reporting this issue: File upload fails for PDFs. Channel phone, high priority, reference web frontend, and this affects multiple users.",technical
+TCK-00376,"Urgent, My order has not been delivered. Sending details through email, high priority, reference shipment SHP-9001, and this affects multiple users.",shipping
+TCK-00377,"Quick request, The API returns a 500 error. Reported via phone, medium priority, reference CRM connector, and this is impacting customer response times.",technical
+TCK-00378,"Urgent, The website is extremely slow. Reported via portal, low priority, reference checkout module, and we need a fix today.",technical
+TCK-00379,"Please help, I am reporting this issue: The parcel box arrived open. Channel chat, medium priority, reference tracking TRK-992, and this happens only on mobile.",shipping
+TCK-00380,"Need assistance, I am reporting this issue: The delivery date keeps changing. Channel chat, high priority, reference order ORD-1102, and this is impacting customer response times.",shipping
+TCK-00381,"Good morning: The courier delivered to the wrong address. I opened this through email with low priority, reference order ORD-1102, and this affects multiple users.",shipping
+TCK-00382,"Hello support, I am reporting this issue: The app crashes when I open the dashboard. Channel phone, medium priority, reference admin dashboard, and this started after the latest release.",technical
+TCK-00383,"Please help, The order is marked delivered but I did not receive it. Sending details through portal, low priority, reference order ORD-1102, and this is impacting customer response times.",shipping
+TCK-00384,"Good morning, The VAT amount is wrong on the invoice. Sending details through email, low priority, reference plan PRO, and this started after the latest release.",billing
+TCK-00385,"Please help: Billing continued after I canceled. I opened this through email with medium priority, reference plan PRO, and this blocks our daily operations.",billing
+TCK-00386,"Good afternoon, I need to switch the payment method. Sending details through chat, low priority, reference plan PRO, and this happens only on web.",billing
+TCK-00387,"Hello support, My annual plan renewed at the wrong price. Sending details through email, medium priority, reference order ORD-5561, and this happens only on mobile.",billing
+TCK-00388,"Urgent, I am reporting this issue: I was charged twice for my monthly plan. Channel phone, medium priority, reference invoice INV-1021, and this happens only on mobile.",billing
+TCK-00389,"Need assistance, I need to switch the payment method. Reported via phone, high priority, reference plan PRO, and we need a fix today.",billing
+TCK-00390,"Hi team, The API returns a 500 error. Reported via chat, low priority, reference CRM connector, and this affects multiple users.",technical
+TCK-00391,"Good morning, I need to change my login email. Sending details through email, medium priority, reference sales team, and this started yesterday.",account_access
+TCK-00392,"Hello support, I am reporting this issue: The export button does nothing. Channel phone, low priority, reference service API, and this is impacting customer response times.",technical
+TCK-00393,"Good afternoon, My order has not been delivered. Sending details through phone, low priority, reference order ORD-1102, and this is impacting customer response times.",shipping
+TCK-00394,"Good afternoon, I was billed for an add-on I did not enable. Reported via email, low priority, reference invoice INV-1021, and this happens only on web.",billing
+TCK-00395,"Hello support, File upload fails for PDFs. Sending details through email, high priority, reference CRM connector, and this happens only on web.",technical
+TCK-00396,"Urgent, I am reporting this issue: Changes are not being saved. Channel chat, medium priority, reference checkout module, and this affects multiple users.",technical
+TCK-00397,"Hello support: The payment failed but money was still taken. I opened this through phone with medium priority, reference subscription SUB-8840, and this happens only on web.",billing
+TCK-00398,"Good afternoon: I need to switch the payment method. I opened this through portal with low priority, reference invoice INV-3044, and this affects multiple users.",billing
+TCK-00399,"Urgent, I need to change the delivery address. Reported via email, low priority, reference order ORD-1102, and this blocks our daily operations.",shipping
+TCK-00400,"Good afternoon: I cannot enable two-factor authentication. I opened this through email with medium priority, reference main tenant, and this affects multiple users.",account_access
+TCK-00401,"Hello support, SSO login is failing for my team. Sending details through chat, low priority, reference sales team, and this happens only on web.",account_access
+TCK-00402,"Hello support: The screen is blank after login. I opened this through portal with medium priority, reference CRM connector, and this happens only on mobile.",technical
+TCK-00403,"Hi team: The app crashes when I open the dashboard. I opened this through phone with medium priority, reference web frontend, and this happens only on web.",technical
+TCK-00404,"Hello support, I am reporting this issue: The two-factor code never arrives. Channel phone, high priority, reference main tenant, and this affects multiple users.",account_access
+TCK-00405,"Hello support, I need an updated invoice with company tax ID. Sending details through portal, medium priority, reference plan PRO, and this happens only on mobile.",billing
+TCK-00406,"Please help: SSO login is failing for my team. I opened this through portal with medium priority, reference user USR-772, and this started yesterday.",account_access
+TCK-00407,"Please help, I am reporting this issue: The password reset link expired. Channel portal, medium priority, reference corporate domain, and this is impacting customer response times.",account_access
+TCK-00408,"Quick request, I get logged out immediately. Sending details through portal, low priority, reference user USR-441, and this blocks our daily operations.",account_access
+TCK-00409,"Hello support, I am reporting this issue: I was charged twice for my monthly plan. Channel chat, medium priority, reference subscription SUB-8840, and this is impacting customer response times.",billing
+TCK-00410,"Urgent, I cannot enable two-factor authentication. Sending details through chat, high priority, reference user USR-441, and this is impacting customer response times.",account_access
+TCK-00411,"Urgent, The API returns a 500 error. Reported via email, high priority, reference checkout module, and this started yesterday.",technical
+TCK-00412,"Please help, I was billed for an add-on I did not enable. Reported via portal, medium priority, reference invoice INV-3044, and this started after the latest release.",billing
+TCK-00413,"Quick request, I need an updated invoice with company tax ID. Sending details through portal, low priority, reference invoice INV-3044, and this happens only on web.",billing
+TCK-00414,"Quick request: I cannot complete email verification. I opened this through chat with high priority, reference sales team, and this happens only on mobile.",account_access
+TCK-00415,"Hi team, I am reporting this issue: Billing continued after I canceled. Channel portal, high priority, reference order ORD-5561, and this happens only on mobile.",billing
+TCK-00416,"Good afternoon, I get a timeout when loading reports. Sending details through phone, medium priority, reference admin dashboard, and this started yesterday.",technical
+TCK-00417,"Good afternoon, I get a timeout when loading reports. Sending details through phone, medium priority, reference CRM connector, and this is impacting customer response times.",technical
+TCK-00418,"Good morning: Search returns no results. I opened this through portal with low priority, reference service API, and this started after the latest release.",technical
+TCK-00419,"Hi team, The password reset link expired. Sending details through email, high priority, reference sales team, and this started yesterday.",account_access
+TCK-00420,"Quick request: Sign in fails on mobile but works on web. I opened this through email with low priority, reference sales team, and we need a fix today.",account_access
+TCK-00421,"Urgent: Tracking has not updated for days. I opened this through email with low priority, reference tracking TRK-992, and this happens only on web.",shipping
+TCK-00422,"Hello support, Customs hold has delayed my package. Sending details through email, high priority, reference tracking TRK-331, and this is impacting customer response times.",shipping
+TCK-00423,"Please help, Changes are not being saved. Sending details through email, low priority, reference web frontend, and this affects multiple users.",technical
+TCK-00424,"Please help: I get logged out immediately. I opened this through phone with high priority, reference user USR-441, and this is impacting customer response times.",account_access
+TCK-00425,"Good morning, The password reset link expired. Sending details through chat, low priority, reference sales team, and this blocks our daily operations.",account_access
+TCK-00426,"Please help, SSO login is failing for my team. Reported via portal, high priority, reference sales team, and this blocks our daily operations.",account_access
+TCK-00427,"Quick request, The website is extremely slow. Reported via email, low priority, reference checkout module, and this started yesterday.",technical
+TCK-00428,"Good morning, My order has not been delivered. Reported via phone, medium priority, reference tracking TRK-331, and this happens only on web.",shipping
+TCK-00429,"Good afternoon: A refund has not arrived yet. I opened this through email with high priority, reference invoice INV-3044, and this is impacting customer response times.",billing
+TCK-00430,"Need assistance, My account is locked. Reported via email, medium priority, reference user USR-441, and this started yesterday.",account_access
+TCK-00431,"Good afternoon, I am reporting this issue: I cannot enable two-factor authentication. Channel email, low priority, reference main tenant, and this blocks our daily operations.",account_access
+TCK-00432,"Hi team, File upload fails for PDFs. Sending details through chat, high priority, reference admin dashboard, and this started after the latest release.",technical
+TCK-00433,"Please help, I am reporting this issue: The invoice total is incorrect. Channel phone, medium priority, reference subscription SUB-8840, and this happens only on web.",billing
+TCK-00434,"Urgent, A refund has not arrived yet. Reported via email, low priority, reference subscription SUB-8840, and this happens only on mobile.",billing
+TCK-00435,"Please help, I need to change the delivery address. Sending details through phone, low priority, reference order ORD-1102, and this is impacting customer response times.",shipping
+TCK-00436,"Please help, I am reporting this issue: The package arrived damaged. Channel chat, medium priority, reference shipment SHP-9001, and this is impacting customer response times.",shipping
+TCK-00437,"Hi team: The export button does nothing. I opened this through phone with medium priority, reference web frontend, and this is impacting customer response times.",technical
+TCK-00438,"Hi team, I am reporting this issue: The courier asked for an unexpected fee. Channel chat, low priority, reference tracking TRK-331, and this started after the latest release.",shipping
+TCK-00439,"Hello support, The export button does nothing. Reported via portal, low priority, reference admin dashboard, and we need a fix today.",technical
+TCK-00440,"Hi team, I am reporting this issue: SSO login is failing for my team. Channel portal, low priority, reference sales team, and this affects multiple users.",account_access
+TCK-00441,"Urgent, I cannot enable two-factor authentication. Sending details through email, medium priority, reference main tenant, and we need a fix today.",account_access
+TCK-00442,"Good afternoon, I cannot log in to my account. Reported via chat, medium priority, reference main tenant, and this started after the latest release.",account_access
+TCK-00443,"Hello support, I am reporting this issue: I cannot log in to my account. Channel email, high priority, reference sales team, and this happens only on mobile.",account_access
+TCK-00444,"Hello support, I am reporting this issue: I was billed for an add-on I did not enable. Channel chat, medium priority, reference plan PRO, and this happens only on web.",billing
+TCK-00445,"Urgent, The API returns a 500 error. Reported via email, medium priority, reference service API, and this affects multiple users.",technical
+TCK-00446,"Urgent, I was charged twice for my monthly plan. Reported via chat, low priority, reference invoice INV-3044, and this started yesterday.",billing
+TCK-00447,"Quick request, I need an updated invoice with company tax ID. Sending details through phone, high priority, reference order ORD-5561, and this started after the latest release.",billing
+TCK-00448,"Hi team, SSO login is failing for my team. Sending details through phone, low priority, reference user USR-772, and this started yesterday.",account_access
+TCK-00449,"Need assistance, I am reporting this issue: My account is locked. Channel phone, medium priority, reference main tenant, and this is impacting customer response times.",account_access
+TCK-00450,"Please help: The VAT amount is wrong on the invoice. I opened this through email with high priority, reference invoice INV-3044, and this affects multiple users.",billing
+TCK-00451,"Need assistance, I was billed for an add-on I did not enable. Reported via chat, medium priority, reference invoice INV-1021, and this happens only on web.",billing
+TCK-00452,"Good afternoon: I need to change the delivery address. I opened this through chat with high priority, reference shipment SHP-7654, and we need a fix today.",shipping
+TCK-00453,"Hello support, The payment failed but money was still taken. Reported via email, low priority, reference subscription SUB-8840, and this blocks our daily operations.",billing
+TCK-00454,"Please help, I am reporting this issue: The parcel box arrived open. Channel phone, low priority, reference tracking TRK-992, and this affects multiple users.",shipping
+TCK-00455,"Need assistance, I am reporting this issue: My account is locked. Channel portal, medium priority, reference main tenant, and this happens only on mobile.",account_access
+TCK-00456,"Please help, The order is marked delivered but I did not receive it. Reported via chat, low priority, reference tracking TRK-992, and this happens only on mobile.",shipping
+TCK-00457,"Quick request, The two-factor code never arrives. Sending details through email, high priority, reference sales team, and this affects multiple users.",account_access
+TCK-00458,"Hi team, I received the wrong product. Reported via phone, low priority, reference order ORD-1102, and we need a fix today.",shipping
+TCK-00459,"Good afternoon, Customs hold has delayed my package. Reported via chat, low priority, reference tracking TRK-992, and this started after the latest release.",shipping
+TCK-00460,"Hello support, I am reporting this issue: I received the wrong product. Channel phone, low priority, reference order ORD-1102, and we need a fix today.",shipping
+TCK-00461,"Urgent: The parcel box arrived open. I opened this through email with low priority, reference shipment SHP-7654, and this happens only on web.",shipping
+TCK-00462,"Good afternoon: SSO login is failing for my team. I opened this through portal with low priority, reference sales team, and we need a fix today.",account_access
+TCK-00463,"Need assistance: The API returns a 500 error. I opened this through chat with medium priority, reference service API, and this is impacting customer response times.",technical
+TCK-00464,"Hi team, The screen is blank after login. Reported via chat, medium priority, reference admin dashboard, and this blocks our daily operations.",technical
+TCK-00465,"Urgent, I get logged out immediately. Sending details through portal, low priority, reference user USR-441, and we need a fix today.",account_access
+TCK-00466,"Hello support: My annual plan renewed at the wrong price. I opened this through chat with medium priority, reference invoice INV-1021, and this affects multiple users.",billing
+TCK-00467,"Good morning, I am reporting this issue: My user appears disabled. Channel email, high priority, reference corporate domain, and this is impacting customer response times.",account_access
+TCK-00468,"Quick request, I was charged twice for my monthly plan. Reported via email, medium priority, reference invoice INV-3044, and this started after the latest release.",billing
+TCK-00469,"Urgent: One item is missing from the shipment. I opened this through phone with medium priority, reference shipment SHP-7654, and this is impacting customer response times.",shipping
+TCK-00470,"Urgent, The courier asked for an unexpected fee. Sending details through portal, high priority, reference shipment SHP-9001, and this blocks our daily operations.",shipping
+TCK-00471,"Hello support, I am reporting this issue: Customs hold has delayed my package. Channel portal, low priority, reference tracking TRK-992, and we need a fix today.",shipping
+TCK-00472,"Hello support, I am reporting this issue: Changes are not being saved. Channel chat, low priority, reference web frontend, and we need a fix today.",technical
+TCK-00473,"Quick request, I am reporting this issue: I need to switch the payment method. Channel phone, high priority, reference invoice INV-3044, and this happens only on web.",billing
+TCK-00474,"Hello support, I am reporting this issue: I need to switch the payment method. Channel portal, medium priority, reference plan PRO, and this affects multiple users.",billing
+TCK-00475,"Good afternoon, I am reporting this issue: My order has not been delivered. Channel chat, low priority, reference shipment SHP-7654, and this started yesterday.",shipping
+TCK-00476,"Need assistance: The export button does nothing. I opened this through phone with high priority, reference CRM connector, and this started after the latest release.",technical
+TCK-00477,"Need assistance, I am reporting this issue: The password reset link expired. Channel email, medium priority, reference corporate domain, and this affects multiple users.",account_access
+TCK-00478,"Good afternoon, I am reporting this issue: Changes are not being saved. Channel chat, low priority, reference web frontend, and this blocks our daily operations.",technical
+TCK-00479,"Need assistance, I get logged out immediately. Reported via phone, medium priority, reference user USR-772, and this happens only on mobile.",account_access
+TCK-00480,"Good morning, The order is marked delivered but I did not receive it. Reported via portal, high priority, reference tracking TRK-331, and this blocks our daily operations.",shipping
+TCK-00481,"Urgent, Search returns no results. Sending details through phone, high priority, reference admin dashboard, and this started after the latest release.",technical
+TCK-00482,"Quick request, My user appears disabled. Reported via portal, high priority, reference main tenant, and this affects multiple users.",account_access
+TCK-00483,"Hi team: My password is rejected even after reset. I opened this through email with high priority, reference main tenant, and this started yesterday.",account_access
+TCK-00484,"Good morning: My account is locked. I opened this through chat with low priority, reference user USR-441, and this happens only on web.",account_access
+TCK-00485,"Urgent, I get a timeout when loading reports. Sending details through email, medium priority, reference CRM connector, and this happens only on mobile.",technical
+TCK-00486,"Need assistance: I get logged out immediately. I opened this through email with low priority, reference main tenant, and this happens only on mobile.",account_access
+TCK-00487,"Please help, My user appears disabled. Reported via phone, low priority, reference main tenant, and this started yesterday.",account_access
+TCK-00488,"Need assistance, The integration with our CRM is failing. Reported via phone, low priority, reference admin dashboard, and this is impacting customer response times.",technical
+TCK-00489,"Urgent: The password reset link expired. I opened this through phone with low priority, reference user USR-772, and this affects multiple users.",account_access
+TCK-00490,"Please help, I was billed for an add-on I did not enable. Sending details through email, low priority, reference invoice INV-1021, and this blocks our daily operations.",billing
+TCK-00491,"Please help, The two-factor code never arrives. Reported via email, high priority, reference main tenant, and this happens only on web.",account_access
+TCK-00492,"Hi team: File upload fails for PDFs. I opened this through portal with low priority, reference checkout module, and this is impacting customer response times.",technical
+TCK-00493,"Need assistance, I am reporting this issue: SSO login is failing for my team. Channel phone, medium priority, reference user USR-772, and this started yesterday.",account_access
+TCK-00494,"Quick request, The courier asked for an unexpected fee. Reported via portal, low priority, reference tracking TRK-331, and this is impacting customer response times.",shipping
+TCK-00495,"Need assistance, The two-factor code never arrives. Reported via email, low priority, reference main tenant, and this happens only on mobile.",account_access
+TCK-00496,"Need assistance, My password is rejected even after reset. Sending details through email, low priority, reference sales team, and this started yesterday.",account_access
+TCK-00497,"Good morning, Sign in fails on mobile but works on web. Reported via chat, medium priority, reference sales team, and we need a fix today.",account_access
+TCK-00498,"Hello support, I am reporting this issue: Billing continued after I canceled. Channel email, high priority, reference order ORD-5561, and this happens only on web.",billing
+TCK-00499,"Hi team, The website is extremely slow. Sending details through chat, medium priority, reference web frontend, and we need a fix today.",technical
+TCK-00500,"Hello support, I need to change the delivery address. Reported via chat, low priority, reference order ORD-1102, and this started yesterday.",shipping
+TCK-00501,"Good morning, I cannot complete email verification. Sending details through chat, high priority, reference user USR-441, and this affects multiple users.",account_access
+TCK-00502,"Hello support, Billing continued after I canceled. Reported via portal, high priority, reference subscription SUB-8840, and this started yesterday.",billing
+TCK-00503,"Hello support, My password is rejected even after reset. Reported via email, medium priority, reference main tenant, and this is impacting customer response times.",account_access
+TCK-00504,"Need assistance, I need to change the delivery address. Reported via email, low priority, reference tracking TRK-331, and this happens only on web.",shipping
+TCK-00505,"Please help, The checkout page freezes during payment. Reported via email, high priority, reference admin dashboard, and this affects multiple users.",technical
+TCK-00506,"Urgent, Changes are not being saved. Sending details through portal, low priority, reference checkout module, and this happens only on mobile.",technical
+TCK-00507,"Please help, The VAT amount is wrong on the invoice. Sending details through portal, low priority, reference invoice INV-1021, and this is impacting customer response times.",billing
+TCK-00508,"Urgent: The courier asked for an unexpected fee. I opened this through chat with low priority, reference order ORD-1102, and this is impacting customer response times.",shipping
+TCK-00509,"Please help: I cannot complete email verification. I opened this through chat with medium priority, reference user USR-772, and this started yesterday.",account_access
+TCK-00510,"Need assistance, I am reporting this issue: My account is locked. Channel phone, low priority, reference user USR-772, and this affects multiple users.",account_access
+TCK-00511,"Hello support: I was charged twice for my monthly plan. I opened this through chat with medium priority, reference invoice INV-1021, and this blocks our daily operations.",billing
+TCK-00512,"Urgent, I am reporting this issue: The invoice total is incorrect. Channel chat, high priority, reference order ORD-5561, and this blocks our daily operations.",billing
+TCK-00513,"Hello support, I am reporting this issue: I get a timeout when loading reports. Channel portal, low priority, reference admin dashboard, and this started yesterday.",technical
+TCK-00514,"Please help: The app crashes when I open the dashboard. I opened this through email with medium priority, reference web frontend, and this started after the latest release.",technical
+TCK-00515,"Hello support, Search returns no results. Reported via portal, medium priority, reference service API, and this happens only on web.",technical
+TCK-00516,"Hello support, Changes are not being saved. Reported via portal, high priority, reference CRM connector, and this blocks our daily operations.",technical
+TCK-00517,"Hello support, Tracking has not updated for days. Reported via phone, low priority, reference order ORD-1102, and this happens only on mobile.",shipping
+TCK-00518,"Need assistance, I cannot complete email verification. Sending details through email, low priority, reference corporate domain, and this happens only on mobile.",account_access
+TCK-00519,"Quick request, I am reporting this issue: The API returns a 500 error. Channel phone, medium priority, reference checkout module, and this is impacting customer response times.",technical
+TCK-00520,"Need assistance, I am reporting this issue: The delivery date keeps changing. Channel portal, high priority, reference order ORD-1102, and this affects multiple users.",shipping
+TCK-00521,"Need assistance, I am reporting this issue: My annual plan renewed at the wrong price. Channel phone, medium priority, reference plan PRO, and this blocks our daily operations.",billing
+TCK-00522,"Urgent, The parcel box arrived open. Sending details through phone, medium priority, reference order ORD-1102, and we need a fix today.",shipping
+TCK-00523,"Quick request, Sign in fails on mobile but works on web. Reported via email, medium priority, reference main tenant, and this started after the latest release.",account_access
+TCK-00524,"Good morning, The website is extremely slow. Sending details through chat, medium priority, reference service API, and this started after the latest release.",technical
+TCK-00525,"Hello support, I am reporting this issue: Billing continued after I canceled. Channel email, medium priority, reference invoice INV-3044, and this is impacting customer response times.",billing
+TCK-00526,"Need assistance, The integration with our CRM is failing. Sending details through portal, low priority, reference service API, and this happens only on mobile.",technical
+TCK-00527,"Quick request: The payment failed but money was still taken. I opened this through chat with medium priority, reference plan PRO, and we need a fix today.",billing
+TCK-00528,"Good afternoon, I am reporting this issue: There is an unknown charge on my card. Channel email, low priority, reference invoice INV-3044, and this happens only on web.",billing
+TCK-00529,"Please help, I get logged out immediately. Reported via chat, low priority, reference user USR-772, and this blocks our daily operations.",account_access
+TCK-00530,"Good afternoon, I am reporting this issue: Customs hold has delayed my package. Channel email, high priority, reference shipment SHP-9001, and we need a fix today.",shipping
+TCK-00531,"Urgent, The two-factor code never arrives. Sending details through phone, high priority, reference sales team, and this blocks our daily operations.",account_access
+TCK-00532,"Urgent: One item is missing from the shipment. I opened this through portal with high priority, reference shipment SHP-9001, and this happens only on mobile.",shipping
+TCK-00533,"Urgent, I cannot complete email verification. Sending details through email, low priority, reference main tenant, and this started yesterday.",account_access
+TCK-00534,"Hi team, Changes are not being saved. Reported via portal, medium priority, reference admin dashboard, and this started after the latest release.",technical
+TCK-00535,"Hi team, There is an unknown charge on my card. Reported via chat, high priority, reference subscription SUB-8840, and this affects multiple users.",billing
+TCK-00536,"Hi team, I am reporting this issue: I received the wrong product. Channel chat, high priority, reference shipment SHP-9001, and this started yesterday.",shipping
+TCK-00537,"Need assistance, Tracking has not updated for days. Reported via chat, high priority, reference shipment SHP-7654, and we need a fix today.",shipping
+TCK-00538,"Good morning, I am reporting this issue: I need to change my login email. Channel chat, medium priority, reference corporate domain, and we need a fix today.",account_access
+TCK-00539,"Please help: The password reset link expired. I opened this through email with high priority, reference sales team, and this is impacting customer response times.",account_access
+TCK-00540,"Urgent, My order has not been delivered. Sending details through chat, medium priority, reference shipment SHP-7654, and this started after the latest release.",shipping
+TCK-00541,"Please help: One item is missing from the shipment. I opened this through phone with low priority, reference order ORD-1102, and this is impacting customer response times.",shipping
+TCK-00542,"Please help, The courier asked for an unexpected fee. Reported via portal, high priority, reference order ORD-1102, and this started yesterday.",shipping
+TCK-00543,"Hi team, I am reporting this issue: The invoice total is incorrect. Channel phone, high priority, reference subscription SUB-8840, and we need a fix today.",billing
+TCK-00544,"Urgent, I was charged twice for my monthly plan. Sending details through portal, high priority, reference order ORD-5561, and this happens only on mobile.",billing
+TCK-00545,"Quick request, I need to switch the payment method. Reported via chat, high priority, reference subscription SUB-8840, and this started after the latest release.",billing
+TCK-00546,"Good afternoon, I am reporting this issue: One item is missing from the shipment. Channel email, low priority, reference order ORD-1102, and this happens only on web.",shipping
+TCK-00547,"Hello support: I received the wrong product. I opened this through chat with medium priority, reference tracking TRK-331, and we need a fix today.",shipping
+TCK-00548,"Hello support, I am reporting this issue: I was charged twice for my monthly plan. Channel chat, high priority, reference subscription SUB-8840, and this started yesterday.",billing
+TCK-00549,"Good morning, The delivery date keeps changing. Sending details through portal, high priority, reference shipment SHP-9001, and we need a fix today.",shipping
+TCK-00550,"Good morning, I am reporting this issue: The API returns a 500 error. Channel email, low priority, reference checkout module, and this started yesterday.",technical
+TCK-00551,"Hello support, I cannot complete email verification. Reported via email, high priority, reference sales team, and this affects multiple users.",account_access
+TCK-00552,"Good morning, My discount was not applied. Reported via phone, medium priority, reference subscription SUB-8840, and we need a fix today.",billing
+TCK-00553,"Quick request, The invoice total is incorrect. Sending details through email, medium priority, reference subscription SUB-8840, and this affects multiple users.",billing
+TCK-00554,"Good afternoon, I am reporting this issue: The integration with our CRM is failing. Channel phone, high priority, reference CRM connector, and this is impacting customer response times.",technical
+TCK-00555,"Good morning, I get logged out immediately. Reported via portal, low priority, reference sales team, and this started after the latest release.",account_access
+TCK-00556,"Good morning: The parcel box arrived open. I opened this through chat with medium priority, reference shipment SHP-9001, and this affects multiple users.",shipping
+TCK-00557,"Good afternoon, I was billed for an add-on I did not enable. Reported via email, high priority, reference order ORD-5561, and this started after the latest release.",billing
+TCK-00558,"Good morning, I am reporting this issue: The VAT amount is wrong on the invoice. Channel phone, high priority, reference order ORD-5561, and this happens only on web.",billing
+TCK-00559,"Quick request, I am reporting this issue: I was charged twice for my monthly plan. Channel email, medium priority, reference plan PRO, and this blocks our daily operations.",billing
+TCK-00560,"Good morning, The delivery date keeps changing. Reported via portal, high priority, reference order ORD-1102, and this happens only on web.",shipping
+TCK-00561,"Please help, I am reporting this issue: I need an updated invoice with company tax ID. Channel phone, low priority, reference plan PRO, and this started yesterday.",billing
+TCK-00562,"Good afternoon, I am reporting this issue: My account is locked. Channel portal, low priority, reference user USR-441, and this is impacting customer response times.",account_access
+TCK-00563,"Urgent, I am reporting this issue: My order has not been delivered. Channel portal, high priority, reference tracking TRK-331, and this blocks our daily operations.",shipping
+TCK-00564,"Good morning, My annual plan renewed at the wrong price. Sending details through chat, high priority, reference order ORD-5561, and this happens only on web.",billing
+TCK-00565,"Hi team, I am reporting this issue: I need to change my login email. Channel phone, low priority, reference user USR-441, and this blocks our daily operations.",account_access
+TCK-00566,"Hello support: SSO login is failing for my team. I opened this through chat with medium priority, reference user USR-772, and this happens only on web.",account_access
+TCK-00567,"Hi team, I cannot log in to my account. Sending details through portal, low priority, reference sales team, and this started yesterday.",account_access
+TCK-00568,"Good morning, There is an unknown charge on my card. Sending details through chat, high priority, reference order ORD-5561, and this started yesterday.",billing
+TCK-00569,"Hi team, I am reporting this issue: The integration with our CRM is failing. Channel portal, high priority, reference service API, and this started after the latest release.",technical
+TCK-00570,"Please help, The checkout page freezes during payment. Reported via chat, low priority, reference CRM connector, and we need a fix today.",technical
+TCK-00571,"Quick request, I am reporting this issue: The payment failed but money was still taken. Channel email, low priority, reference invoice INV-1021, and this happens only on web.",billing
+TCK-00572,"Good afternoon, The website is extremely slow. Sending details through phone, high priority, reference checkout module, and this blocks our daily operations.",technical
+TCK-00573,"Good morning, I am reporting this issue: I was billed for an add-on I did not enable. Channel email, medium priority, reference invoice INV-3044, and this affects multiple users.",billing
+TCK-00574,"Hello support, I am reporting this issue: Changes are not being saved. Channel email, low priority, reference checkout module, and this affects multiple users.",technical
+TCK-00575,"Quick request, The export button does nothing. Sending details through phone, low priority, reference CRM connector, and this started after the latest release.",technical
+TCK-00576,"Good morning, I get a timeout when loading reports. Reported via portal, medium priority, reference CRM connector, and this started after the latest release.",technical
+TCK-00577,"Good morning, The package arrived damaged. Sending details through email, high priority, reference shipment SHP-7654, and we need a fix today.",shipping
+TCK-00578,"Hello support, I need an updated invoice with company tax ID. Sending details through phone, low priority, reference plan PRO, and this started yesterday.",billing
+TCK-00579,"Need assistance, I am reporting this issue: My account is locked. Channel portal, low priority, reference sales team, and this affects multiple users.",account_access
+TCK-00580,"Good afternoon, The checkout page freezes during payment. Sending details through portal, medium priority, reference checkout module, and we need a fix today.",technical
+TCK-00581,"Urgent, I am reporting this issue: I need an updated invoice with company tax ID. Channel email, high priority, reference invoice INV-3044, and this blocks our daily operations.",billing
+TCK-00582,"Please help, I am reporting this issue: There is an unknown charge on my card. Channel phone, high priority, reference plan PRO, and this happens only on web.",billing
+TCK-00583,"Quick request, The invoice total is incorrect. Sending details through email, low priority, reference subscription SUB-8840, and this blocks our daily operations.",billing
+TCK-00584,"Quick request, SSO login is failing for my team. Reported via email, medium priority, reference user USR-772, and we need a fix today.",account_access
+TCK-00585,"Please help, My password is rejected even after reset. Sending details through phone, low priority, reference user USR-441, and this blocks our daily operations.",account_access
+TCK-00586,"Need assistance, The password reset link expired. Reported via portal, medium priority, reference sales team, and this started yesterday.",account_access
+TCK-00587,"Quick request, The integration with our CRM is failing. Sending details through chat, high priority, reference CRM connector, and this started after the latest release.",technical
+TCK-00588,"Urgent, The payment failed but money was still taken. Sending details through portal, medium priority, reference invoice INV-3044, and this is impacting customer response times.",billing
+TCK-00589,"Urgent: I need to change my login email. I opened this through chat with medium priority, reference user USR-772, and this started yesterday.",account_access
+TCK-00590,"Need assistance: Search returns no results. I opened this through chat with medium priority, reference admin dashboard, and we need a fix today.",technical
+TCK-00591,"Quick request, I am reporting this issue: I need to switch the payment method. Channel chat, medium priority, reference invoice INV-1021, and this blocks our daily operations.",billing
+TCK-00592,"Quick request: I need to switch the payment method. I opened this through portal with low priority, reference invoice INV-1021, and we need a fix today.",billing
+TCK-00593,"Hello support: I need to change my login email. I opened this through email with medium priority, reference sales team, and this blocks our daily operations.",account_access
+TCK-00594,"Good morning, The two-factor code never arrives. Reported via phone, medium priority, reference main tenant, and this affects multiple users.",account_access
+TCK-00595,"Hello support, The two-factor code never arrives. Reported via portal, low priority, reference sales team, and this blocks our daily operations.",account_access
+TCK-00596,"Good afternoon: I cannot complete email verification. I opened this through phone with high priority, reference user USR-441, and this started after the latest release.",account_access
+TCK-00597,"Hi team, The export button does nothing. Sending details through chat, low priority, reference CRM connector, and this affects multiple users.",technical
+TCK-00598,"Urgent: File upload fails for PDFs. I opened this through phone with low priority, reference service API, and this happens only on mobile.",technical
+TCK-00599,"Please help, SSO login is failing for my team. Reported via phone, medium priority, reference main tenant, and this started after the latest release.",account_access
+TCK-00600,"Good morning, My user appears disabled. Reported via chat, low priority, reference main tenant, and this happens only on mobile.",account_access
+TCK-00601,"Good afternoon, I get logged out immediately. Reported via portal, medium priority, reference sales team, and we need a fix today.",account_access
+TCK-00602,"Hi team, Customs hold has delayed my package. Reported via chat, high priority, reference tracking TRK-331, and we need a fix today.",shipping
+TCK-00603,"Hello support, SSO login is failing for my team. Sending details through portal, low priority, reference sales team, and this started after the latest release.",account_access
+TCK-00604,"Please help: The courier delivered to the wrong address. I opened this through phone with medium priority, reference order ORD-1102, and this happens only on mobile.",shipping
+TCK-00605,"Quick request: Changes are not being saved. I opened this through chat with high priority, reference admin dashboard, and this is impacting customer response times.",technical
+TCK-00606,"Hello support, I am reporting this issue: My user appears disabled. Channel portal, low priority, reference user USR-441, and this affects multiple users.",account_access
+TCK-00607,"Good afternoon, Search returns no results. Reported via chat, medium priority, reference service API, and this happens only on mobile.",technical
+TCK-00608,"Good morning: Sign in fails on mobile but works on web. I opened this through phone with low priority, reference main tenant, and this happens only on web.",account_access
+TCK-00609,"Hi team, I am reporting this issue: Billing continued after I canceled. Channel phone, high priority, reference invoice INV-1021, and this is impacting customer response times.",billing
+TCK-00610,"Quick request, The app crashes when I open the dashboard. Sending details through email, low priority, reference checkout module, and this started after the latest release.",technical
+TCK-00611,"Good morning: The payment failed but money was still taken. I opened this through email with low priority, reference invoice INV-3044, and this is impacting customer response times.",billing
+TCK-00612,"Urgent, Customs hold has delayed my package. Reported via portal, low priority, reference tracking TRK-992, and this started after the latest release.",shipping
+TCK-00613,"Urgent, The courier asked for an unexpected fee. Reported via chat, medium priority, reference tracking TRK-331, and this is impacting customer response times.",shipping
+TCK-00614,"Hi team: The app crashes when I open the dashboard. I opened this through email with high priority, reference service API, and this is impacting customer response times.",technical
+TCK-00615,"Hi team, I am reporting this issue: The package arrived damaged. Channel portal, medium priority, reference shipment SHP-9001, and this blocks our daily operations.",shipping
+TCK-00616,"Good afternoon: The invoice total is incorrect. I opened this through chat with low priority, reference invoice INV-3044, and this blocks our daily operations.",billing
+TCK-00617,"Good afternoon, I am reporting this issue: SSO login is failing for my team. Channel chat, high priority, reference corporate domain, and we need a fix today.",account_access
+TCK-00618,"Good afternoon: Tracking has not updated for days. I opened this through phone with high priority, reference shipment SHP-7654, and this affects multiple users.",shipping
+TCK-00619,"Good afternoon, The package arrived damaged. Reported via phone, low priority, reference tracking TRK-992, and this happens only on mobile.",shipping
+TCK-00620,"Hello support: The app crashes when I open the dashboard. I opened this through portal with medium priority, reference service API, and this started yesterday.",technical
+TCK-00621,"Hello support, The integration with our CRM is failing. Reported via chat, low priority, reference CRM connector, and this started after the latest release.",technical
+TCK-00622,"Hi team, Search returns no results. Sending details through phone, low priority, reference checkout module, and this started after the latest release.",technical
+TCK-00623,"Quick request, I am reporting this issue: Billing continued after I canceled. Channel email, high priority, reference order ORD-5561, and this happens only on web.",billing
+TCK-00624,"Hi team, The app crashes when I open the dashboard. Sending details through phone, high priority, reference CRM connector, and this affects multiple users.",technical
+TCK-00625,"Hello support, I am reporting this issue: I cannot log in to my account. Channel email, medium priority, reference user USR-772, and this affects multiple users.",account_access
+TCK-00626,"Good afternoon: The payment failed but money was still taken. I opened this through phone with medium priority, reference plan PRO, and this started yesterday.",billing
+TCK-00627,"Need assistance, The order is marked delivered but I did not receive it. Sending details through phone, high priority, reference tracking TRK-992, and this started after the latest release.",shipping
+TCK-00628,"Good morning: I need to switch the payment method. I opened this through phone with low priority, reference subscription SUB-8840, and we need a fix today.",billing
+TCK-00629,"Urgent: My password is rejected even after reset. I opened this through chat with low priority, reference corporate domain, and this started after the latest release.",account_access
+TCK-00630,"Hi team, The export button does nothing. Reported via portal, low priority, reference CRM connector, and this affects multiple users.",technical
+TCK-00631,"Need assistance, I am reporting this issue: I get a timeout when loading reports. Channel phone, medium priority, reference admin dashboard, and this happens only on mobile.",technical
+TCK-00632,"Good afternoon: I received the wrong product. I opened this through chat with low priority, reference shipment SHP-7654, and this happens only on web.",shipping
+TCK-00633,"Quick request, The checkout page freezes during payment. Sending details through phone, low priority, reference checkout module, and this happens only on mobile.",technical
+TCK-00634,"Need assistance: There is an unknown charge on my card. I opened this through chat with high priority, reference plan PRO, and this happens only on web.",billing
+TCK-00635,"Good morning, I am reporting this issue: I was billed for an add-on I did not enable. Channel portal, high priority, reference invoice INV-3044, and this affects multiple users.",billing
+TCK-00636,"Quick request, Billing continued after I canceled. Reported via chat, low priority, reference order ORD-5561, and this is impacting customer response times.",billing
+TCK-00637,"Need assistance, Customs hold has delayed my package. Reported via phone, low priority, reference shipment SHP-7654, and this started yesterday.",shipping
+TCK-00638,"Urgent, I am reporting this issue: There is an unknown charge on my card. Channel phone, low priority, reference invoice INV-1021, and this affects multiple users.",billing
+TCK-00639,"Quick request, The API returns a 500 error. Sending details through portal, medium priority, reference checkout module, and this happens only on mobile.",technical
+TCK-00640,"Good morning: The website is extremely slow. I opened this through phone with high priority, reference CRM connector, and we need a fix today.",technical
+TCK-00641,"Need assistance, I am reporting this issue: The parcel box arrived open. Channel phone, low priority, reference tracking TRK-331, and this happens only on web.",shipping
+TCK-00642,"Good morning, The export button does nothing. Reported via chat, high priority, reference CRM connector, and this is impacting customer response times.",technical
+TCK-00643,"Need assistance, I am reporting this issue: I need to switch the payment method. Channel portal, medium priority, reference invoice INV-1021, and this blocks our daily operations.",billing
+TCK-00644,"Urgent, My account is locked. Sending details through phone, high priority, reference user USR-441, and this blocks our daily operations.",account_access
+TCK-00645,"Good afternoon: Changes are not being saved. I opened this through chat with medium priority, reference service API, and this happens only on web.",technical
+TCK-00646,"Need assistance, The password reset link expired. Sending details through chat, low priority, reference user USR-772, and this is impacting customer response times.",account_access
+TCK-00647,"Urgent, I am reporting this issue: The courier delivered to the wrong address. Channel email, low priority, reference shipment SHP-7654, and this happens only on mobile.",shipping
+TCK-00648,"Urgent: Tracking has not updated for days. I opened this through portal with high priority, reference order ORD-1102, and this started after the latest release.",shipping
+TCK-00649,"Please help, The two-factor code never arrives. Sending details through email, high priority, reference user USR-441, and we need a fix today.",account_access
+TCK-00650,"Please help, I am reporting this issue: Billing continued after I canceled. Channel portal, medium priority, reference invoice INV-3044, and this is impacting customer response times.",billing
+TCK-00651,"Need assistance, I am reporting this issue: The screen is blank after login. Channel chat, low priority, reference service API, and this happens only on web.",technical
+TCK-00652,"Urgent, One item is missing from the shipment. Reported via phone, low priority, reference order ORD-1102, and this happens only on mobile.",shipping
+TCK-00653,"Good afternoon, My user appears disabled. Reported via email, low priority, reference user USR-441, and this started after the latest release.",account_access
+TCK-00654,"Hello support: My account is locked. I opened this through portal with medium priority, reference sales team, and this happens only on web.",account_access
+TCK-00655,"Hi team, The parcel box arrived open. Reported via portal, low priority, reference tracking TRK-992, and we need a fix today.",shipping
+TCK-00656,"Urgent, The screen is blank after login. Reported via chat, high priority, reference admin dashboard, and this affects multiple users.",technical
+TCK-00657,"Good afternoon, I am reporting this issue: The screen is blank after login. Channel portal, low priority, reference service API, and this is impacting customer response times.",technical
+TCK-00658,"Quick request, Search returns no results. Reported via portal, medium priority, reference web frontend, and this started yesterday.",technical
+TCK-00659,"Hi team, Notifications are delayed by several hours. Sending details through phone, medium priority, reference checkout module, and this started yesterday.",technical
+TCK-00660,"Urgent, I am reporting this issue: My account is locked. Channel portal, low priority, reference main tenant, and this is impacting customer response times.",account_access
+TCK-00661,"Hello support: My discount was not applied. I opened this through portal with low priority, reference plan PRO, and this affects multiple users.",billing
+TCK-00662,"Hello support, I am reporting this issue: My annual plan renewed at the wrong price. Channel email, medium priority, reference invoice INV-1021, and this affects multiple users.",billing
+TCK-00663,"Quick request, The invoice total is incorrect. Reported via portal, high priority, reference invoice INV-3044, and this happens only on web.",billing
+TCK-00664,"Hi team: Billing continued after I canceled. I opened this through email with high priority, reference order ORD-5561, and this affects multiple users.",billing
+TCK-00665,"Please help, The checkout page freezes during payment. Reported via email, high priority, reference CRM connector, and we need a fix today.",technical
+TCK-00666,"Good afternoon: The password reset link expired. I opened this through email with medium priority, reference user USR-441, and this is impacting customer response times.",account_access
+TCK-00667,"Please help: SSO login is failing for my team. I opened this through chat with low priority, reference user USR-441, and this happens only on web.",account_access
+TCK-00668,"Need assistance, One item is missing from the shipment. Reported via chat, high priority, reference tracking TRK-992, and we need a fix today.",shipping
+TCK-00669,"Urgent, I am reporting this issue: File upload fails for PDFs. Channel chat, high priority, reference service API, and this is impacting customer response times.",technical
+TCK-00670,"Good afternoon: I cannot log in to my account. I opened this through phone with high priority, reference main tenant, and this is impacting customer response times.",account_access
+TCK-00671,"Please help, The VAT amount is wrong on the invoice. Reported via phone, high priority, reference plan PRO, and this happens only on web.",billing
+TCK-00672,"Good morning, One item is missing from the shipment. Sending details through chat, high priority, reference tracking TRK-992, and this happens only on mobile.",shipping
+TCK-00673,"Hello support: There is an unknown charge on my card. I opened this through portal with medium priority, reference subscription SUB-8840, and this blocks our daily operations.",billing
+TCK-00674,"Need assistance, The order is marked delivered but I did not receive it. Sending details through email, medium priority, reference shipment SHP-7654, and this blocks our daily operations.",shipping
+TCK-00675,"Good afternoon: SSO login is failing for my team. I opened this through phone with low priority, reference main tenant, and this is impacting customer response times.",account_access
+TCK-00676,"Urgent, I am reporting this issue: My password is rejected even after reset. Channel portal, medium priority, reference corporate domain, and this affects multiple users.",account_access
+TCK-00677,"Quick request, I am reporting this issue: My order has not been delivered. Channel portal, low priority, reference shipment SHP-7654, and this started yesterday.",shipping
+TCK-00678,"Please help, I am reporting this issue: The courier delivered to the wrong address. Channel chat, medium priority, reference tracking TRK-992, and this started yesterday.",shipping
+TCK-00679,"Need assistance, Customs hold has delayed my package. Reported via chat, low priority, reference tracking TRK-331, and this happens only on web.",shipping
+TCK-00680,"Hi team, I am reporting this issue: There is an unknown charge on my card. Channel email, medium priority, reference order ORD-5561, and we need a fix today.",billing
+TCK-00681,"Good afternoon: The courier asked for an unexpected fee. I opened this through portal with medium priority, reference tracking TRK-331, and this affects multiple users.",shipping
+TCK-00682,"Good afternoon: The two-factor code never arrives. I opened this through phone with medium priority, reference corporate domain, and this started after the latest release.",account_access
+TCK-00683,"Good morning, My discount was not applied. Sending details through chat, high priority, reference subscription SUB-8840, and we need a fix today.",billing
+TCK-00684,"Quick request, The parcel box arrived open. Sending details through portal, high priority, reference tracking TRK-992, and this is impacting customer response times.",shipping
+TCK-00685,"Need assistance, The invoice total is incorrect. Sending details through email, low priority, reference subscription SUB-8840, and this blocks our daily operations.",billing
+TCK-00686,"Good morning, The website is extremely slow. Reported via email, medium priority, reference CRM connector, and this happens only on mobile.",technical
+TCK-00687,"Urgent, The VAT amount is wrong on the invoice. Reported via portal, medium priority, reference order ORD-5561, and this started yesterday.",billing
+TCK-00688,"Good morning, I get logged out immediately. Sending details through portal, high priority, reference user USR-772, and this happens only on mobile.",account_access
+TCK-00689,"Hello support, I am reporting this issue: I cannot log in to my account. Channel phone, low priority, reference main tenant, and this blocks our daily operations.",account_access
+TCK-00690,"Good morning, SSO login is failing for my team. Reported via chat, high priority, reference sales team, and this affects multiple users.",account_access
+TCK-00691,"Hello support, I am reporting this issue: Search returns no results. Channel portal, high priority, reference admin dashboard, and this affects multiple users.",technical
+TCK-00692,"Hello support, The delivery date keeps changing. Sending details through chat, low priority, reference tracking TRK-331, and this blocks our daily operations.",shipping
+TCK-00693,"Good morning: I get a timeout when loading reports. I opened this through phone with high priority, reference service API, and we need a fix today.",technical
+TCK-00694,"Need assistance, The parcel box arrived open. Sending details through portal, high priority, reference tracking TRK-331, and this is impacting customer response times.",shipping
+TCK-00695,"Hello support, The checkout page freezes during payment. Reported via phone, high priority, reference web frontend, and this started yesterday.",technical
+TCK-00696,"Please help, I need to switch the payment method. Reported via phone, low priority, reference order ORD-5561, and this happens only on mobile.",billing
+TCK-00697,"Good afternoon, A refund has not arrived yet. Sending details through email, high priority, reference order ORD-5561, and this blocks our daily operations.",billing
+TCK-00698,"Hello support, SSO login is failing for my team. Reported via phone, medium priority, reference main tenant, and this started after the latest release.",account_access
+TCK-00699,"Good afternoon, I am reporting this issue: The parcel box arrived open. Channel portal, high priority, reference tracking TRK-331, and this blocks our daily operations.",shipping
+TCK-00700,"Hello support: The VAT amount is wrong on the invoice. I opened this through email with medium priority, reference order ORD-5561, and this started yesterday.",billing
+TCK-00701,"Quick request, I am reporting this issue: Customs hold has delayed my package. Channel chat, high priority, reference order ORD-1102, and this affects multiple users.",shipping
+TCK-00702,"Quick request: I was charged twice for my monthly plan. I opened this through portal with medium priority, reference invoice INV-3044, and this is impacting customer response times.",billing
+TCK-00703,"Hello support, Customs hold has delayed my package. Reported via phone, medium priority, reference shipment SHP-7654, and this blocks our daily operations.",shipping
+TCK-00704,"Hello support, I am reporting this issue: I need to change the delivery address. Channel email, medium priority, reference tracking TRK-331, and this happens only on mobile.",shipping
+TCK-00705,"Please help, I am reporting this issue: File upload fails for PDFs. Channel chat, low priority, reference CRM connector, and this happens only on mobile.",technical
+TCK-00706,"Hi team: The website is extremely slow. I opened this through email with medium priority, reference service API, and we need a fix today.",technical
+TCK-00707,"Good morning, I was billed for an add-on I did not enable. Reported via portal, high priority, reference invoice INV-3044, and this started after the latest release.",billing
+TCK-00708,"Please help, There is an unknown charge on my card. Sending details through phone, high priority, reference invoice INV-3044, and we need a fix today.",billing
+TCK-00709,"Urgent, I cannot enable two-factor authentication. Sending details through email, high priority, reference sales team, and this happens only on mobile.",account_access
+TCK-00710,"Need assistance, I need an updated invoice with company tax ID. Reported via portal, low priority, reference invoice INV-1021, and we need a fix today.",billing
+TCK-00711,"Good afternoon, I cannot enable two-factor authentication. Sending details through chat, medium priority, reference user USR-441, and this happens only on mobile.",account_access
+TCK-00712,"Hi team, There is an unknown charge on my card. Sending details through phone, low priority, reference invoice INV-3044, and we need a fix today.",billing
+TCK-00713,"Urgent: Customs hold has delayed my package. I opened this through email with high priority, reference tracking TRK-992, and we need a fix today.",shipping
+TCK-00714,"Quick request, I am reporting this issue: I cannot enable two-factor authentication. Channel portal, high priority, reference user USR-441, and this happens only on mobile.",account_access
+TCK-00715,"Hello support: I cannot enable two-factor authentication. I opened this through email with low priority, reference corporate domain, and this blocks our daily operations.",account_access
+TCK-00716,"Need assistance, Tracking has not updated for days. Sending details through phone, medium priority, reference shipment SHP-7654, and this blocks our daily operations.",shipping
+TCK-00717,"Please help, I am reporting this issue: The API returns a 500 error. Channel phone, low priority, reference checkout module, and this started yesterday.",technical
+TCK-00718,"Need assistance, I am reporting this issue: Search returns no results. Channel chat, high priority, reference web frontend, and this happens only on web.",technical
+TCK-00719,"Good afternoon: The integration with our CRM is failing. I opened this through chat with low priority, reference checkout module, and this happens only on mobile.",technical
+TCK-00720,"Good afternoon, I get a timeout when loading reports. Reported via portal, high priority, reference checkout module, and this is impacting customer response times.",technical
+TCK-00721,"Need assistance, I cannot complete email verification. Reported via portal, high priority, reference sales team, and this happens only on mobile.",account_access
+TCK-00722,"Quick request, I am reporting this issue: There is an unknown charge on my card. Channel phone, low priority, reference order ORD-5561, and this blocks our daily operations.",billing
+TCK-00723,"Urgent, I was billed for an add-on I did not enable. Reported via portal, low priority, reference order ORD-5561, and this happens only on web.",billing
+TCK-00724,"Please help, I am reporting this issue: My discount was not applied. Channel portal, low priority, reference order ORD-5561, and this affects multiple users.",billing
+TCK-00725,"Please help, There is an unknown charge on my card. Reported via email, high priority, reference invoice INV-1021, and this happens only on mobile.",billing
+TCK-00726,"Quick request: The website is extremely slow. I opened this through portal with high priority, reference web frontend, and this blocks our daily operations.",technical
+TCK-00727,"Good morning, I was charged twice for my monthly plan. Reported via portal, medium priority, reference subscription SUB-8840, and this is impacting customer response times.",billing
+TCK-00728,"Urgent: I need to change the delivery address. I opened this through portal with medium priority, reference order ORD-1102, and we need a fix today.",shipping
+TCK-00729,"Hello support: The order is marked delivered but I did not receive it. I opened this through portal with low priority, reference tracking TRK-992, and this affects multiple users.",shipping
+TCK-00730,"Quick request, The checkout page freezes during payment. Sending details through portal, low priority, reference checkout module, and this affects multiple users.",technical
+TCK-00731,"Hello support, I need to switch the payment method. Reported via chat, medium priority, reference plan PRO, and this affects multiple users.",billing
+TCK-00732,"Hello support, The order is marked delivered but I did not receive it. Sending details through portal, high priority, reference shipment SHP-9001, and we need a fix today.",shipping
+TCK-00733,"Urgent, I am reporting this issue: Search returns no results. Channel chat, low priority, reference CRM connector, and this is impacting customer response times.",technical
+TCK-00734,"Hello support, The two-factor code never arrives. Sending details through portal, high priority, reference corporate domain, and this started after the latest release.",account_access
+TCK-00735,"Urgent: Notifications are delayed by several hours. I opened this through portal with low priority, reference CRM connector, and this happens only on mobile.",technical
+TCK-00736,"Urgent: I need an updated invoice with company tax ID. I opened this through portal with low priority, reference invoice INV-1021, and this affects multiple users.",billing
+TCK-00737,"Quick request, The package arrived damaged. Sending details through phone, medium priority, reference tracking TRK-331, and we need a fix today.",shipping
+TCK-00738,"Hello support, A refund has not arrived yet. Sending details through chat, low priority, reference order ORD-5561, and this happens only on mobile.",billing
+TCK-00739,"Urgent, The app crashes when I open the dashboard. Reported via portal, low priority, reference admin dashboard, and this started after the latest release.",technical
+TCK-00740,"Hello support: The app crashes when I open the dashboard. I opened this through portal with low priority, reference service API, and this blocks our daily operations.",technical
+TCK-00741,"Good morning, Notifications are delayed by several hours. Sending details through chat, high priority, reference web frontend, and this started after the latest release.",technical
+TCK-00742,"Please help, I am reporting this issue: Sign in fails on mobile but works on web. Channel phone, high priority, reference sales team, and this happens only on mobile.",account_access
+TCK-00743,"Urgent, My user appears disabled. Reported via chat, medium priority, reference corporate domain, and this happens only on mobile.",account_access
+TCK-00744,"Please help, The VAT amount is wrong on the invoice. Sending details through chat, high priority, reference order ORD-5561, and this happens only on mobile.",billing
+TCK-00745,"Urgent, My discount was not applied. Reported via phone, high priority, reference order ORD-5561, and this started yesterday.",billing
+TCK-00746,"Need assistance: I need to switch the payment method. I opened this through chat with low priority, reference subscription SUB-8840, and this happens only on mobile.",billing
+TCK-00747,"Good morning: The API returns a 500 error. I opened this through chat with low priority, reference checkout module, and we need a fix today.",technical
+TCK-00748,"Need assistance, I get a timeout when loading reports. Sending details through email, medium priority, reference CRM connector, and this affects multiple users.",technical
+TCK-00749,"Good morning, Billing continued after I canceled. Sending details through chat, low priority, reference subscription SUB-8840, and we need a fix today.",billing
+TCK-00750,"Quick request, I am reporting this issue: The package arrived damaged. Channel chat, low priority, reference order ORD-1102, and this is impacting customer response times.",shipping
+TCK-00751,"Hello support, I was billed for an add-on I did not enable. Reported via portal, medium priority, reference plan PRO, and this happens only on web.",billing
+TCK-00752,"Good afternoon, The package arrived damaged. Reported via portal, high priority, reference shipment SHP-9001, and this started after the latest release.",shipping
+TCK-00753,"Good afternoon, I am reporting this issue: I need to change the delivery address. Channel phone, medium priority, reference tracking TRK-992, and this started yesterday.",shipping
+TCK-00754,"Good afternoon: The courier delivered to the wrong address. I opened this through phone with low priority, reference tracking TRK-331, and this affects multiple users.",shipping
+TCK-00755,"Good afternoon: I get a timeout when loading reports. I opened this through phone with high priority, reference CRM connector, and this started yesterday.",technical
+TCK-00756,"Urgent, I am reporting this issue: SSO login is failing for my team. Channel phone, high priority, reference sales team, and we need a fix today.",account_access
+TCK-00757,"Urgent: Tracking has not updated for days. I opened this through chat with high priority, reference tracking TRK-992, and this started after the latest release.",shipping
+TCK-00758,"Please help, My order has not been delivered. Reported via portal, high priority, reference shipment SHP-9001, and this happens only on mobile.",shipping
+TCK-00759,"Need assistance, I am reporting this issue: Search returns no results. Channel chat, high priority, reference checkout module, and this started yesterday.",technical
+TCK-00760,"Good morning, File upload fails for PDFs. Reported via phone, medium priority, reference web frontend, and this is impacting customer response times.",technical
+TCK-00761,"Need assistance, SSO login is failing for my team. Sending details through email, medium priority, reference corporate domain, and this affects multiple users.",account_access
+TCK-00762,"Hello support, Billing continued after I canceled. Sending details through email, low priority, reference plan PRO, and this happens only on mobile.",billing
+TCK-00763,"Good afternoon, The courier asked for an unexpected fee. Reported via phone, high priority, reference tracking TRK-331, and this blocks our daily operations.",shipping
+TCK-00764,"Quick request, I need to change the delivery address. Sending details through email, high priority, reference tracking TRK-331, and this started after the latest release.",shipping
+TCK-00765,"Quick request: The invoice total is incorrect. I opened this through email with high priority, reference invoice INV-1021, and this happens only on web.",billing
+TCK-00766,"Good afternoon, I received the wrong product. Reported via portal, medium priority, reference shipment SHP-7654, and this started after the latest release.",shipping
+TCK-00767,"Hello support, My order has not been delivered. Reported via email, high priority, reference shipment SHP-7654, and this happens only on mobile.",shipping
+TCK-00768,"Hello support: My order has not been delivered. I opened this through chat with low priority, reference order ORD-1102, and this happens only on web.",shipping
+TCK-00769,"Hello support, The invoice total is incorrect. Reported via chat, low priority, reference invoice INV-1021, and this happens only on mobile.",billing
+TCK-00770,"Good morning, My discount was not applied. Reported via email, high priority, reference subscription SUB-8840, and we need a fix today.",billing
+TCK-00771,"Urgent: I received the wrong product. I opened this through email with high priority, reference shipment SHP-7654, and this started yesterday.",shipping
+TCK-00772,"Hello support, I am reporting this issue: The parcel box arrived open. Channel chat, medium priority, reference tracking TRK-992, and this happens only on web.",shipping
+TCK-00773,"Hello support: File upload fails for PDFs. I opened this through phone with medium priority, reference service API, and we need a fix today.",technical
+TCK-00774,"Quick request, I am reporting this issue: I cannot complete email verification. Channel email, medium priority, reference sales team, and this started yesterday.",account_access
+TCK-00775,"Please help, I am reporting this issue: SSO login is failing for my team. Channel chat, low priority, reference sales team, and this started after the latest release.",account_access
+TCK-00776,"Please help, I am reporting this issue: I get a timeout when loading reports. Channel chat, low priority, reference CRM connector, and we need a fix today.",technical
+TCK-00777,"Good morning, My account is locked. Sending details through chat, high priority, reference user USR-441, and this happens only on web.",account_access
+TCK-00778,"Please help: The screen is blank after login. I opened this through email with low priority, reference checkout module, and this affects multiple users.",technical
+TCK-00779,"Need assistance, My annual plan renewed at the wrong price. Sending details through portal, medium priority, reference plan PRO, and this affects multiple users.",billing
+TCK-00780,"Urgent, I am reporting this issue: The export button does nothing. Channel phone, high priority, reference service API, and this happens only on mobile.",technical
+TCK-00781,"Quick request, I cannot complete email verification. Reported via phone, medium priority, reference sales team, and this happens only on mobile.",account_access
+TCK-00782,"Hello support: The order is marked delivered but I did not receive it. I opened this through email with medium priority, reference tracking TRK-331, and we need a fix today.",shipping
+TCK-00783,"Hello support: Search returns no results. I opened this through portal with medium priority, reference web frontend, and this happens only on web.",technical
+TCK-00784,"Hi team, I am reporting this issue: I get a timeout when loading reports. Channel email, medium priority, reference CRM connector, and this started after the latest release.",technical
+TCK-00785,"Good afternoon, I get logged out immediately. Reported via phone, low priority, reference main tenant, and this happens only on mobile.",account_access
+TCK-00786,"Good afternoon, I am reporting this issue: I get a timeout when loading reports. Channel email, medium priority, reference CRM connector, and this blocks our daily operations.",technical
+TCK-00787,"Need assistance, I am reporting this issue: The parcel box arrived open. Channel email, high priority, reference tracking TRK-992, and this blocks our daily operations.",shipping
+TCK-00788,"Please help: I cannot complete email verification. I opened this through chat with medium priority, reference user USR-772, and this affects multiple users.",account_access
+TCK-00789,"Good afternoon: Search returns no results. I opened this through phone with high priority, reference CRM connector, and this is impacting customer response times.",technical
+TCK-00790,"Please help, I am reporting this issue: I was charged twice for my monthly plan. Channel portal, medium priority, reference invoice INV-1021, and this started yesterday.",billing
+TCK-00791,"Good afternoon, The screen is blank after login. Reported via portal, medium priority, reference checkout module, and this affects multiple users.",technical
+TCK-00792,"Hello support, I am reporting this issue: Search returns no results. Channel email, medium priority, reference admin dashboard, and this happens only on mobile.",technical
+TCK-00793,"Please help, The courier delivered to the wrong address. Sending details through email, low priority, reference shipment SHP-9001, and this started after the latest release.",shipping
+TCK-00794,"Please help, One item is missing from the shipment. Sending details through portal, low priority, reference shipment SHP-7654, and this started after the latest release.",shipping
+TCK-00795,"Hello support: My discount was not applied. I opened this through email with low priority, reference subscription SUB-8840, and this started yesterday.",billing
+TCK-00796,"Good morning, File upload fails for PDFs. Sending details through email, low priority, reference service API, and this happens only on mobile.",technical
+TCK-00797,"Good afternoon, I am reporting this issue: I cannot enable two-factor authentication. Channel phone, high priority, reference user USR-441, and this happens only on mobile.",account_access
+TCK-00798,"Quick request, The two-factor code never arrives. Reported via chat, medium priority, reference corporate domain, and we need a fix today.",account_access
+TCK-00799,"Hi team, I need an updated invoice with company tax ID. Sending details through portal, low priority, reference order ORD-5561, and this happens only on web.",billing
+TCK-00800,"Good morning: I received the wrong product. I opened this through portal with low priority, reference tracking TRK-331, and this affects multiple users.",shipping
+TCK-00801,"Hello support, I am reporting this issue: I need to change the delivery address. Channel portal, medium priority, reference shipment SHP-7654, and this affects multiple users.",shipping
+TCK-00802,"Please help: Billing continued after I canceled. I opened this through email with low priority, reference plan PRO, and this blocks our daily operations.",billing
+TCK-00803,"Need assistance: I cannot complete email verification. I opened this through email with low priority, reference main tenant, and this started yesterday.",account_access
+TCK-00804,"Good morning, I am reporting this issue: I need to change the delivery address. Channel portal, high priority, reference tracking TRK-992, and this happens only on mobile.",shipping
+TCK-00805,"Urgent, I need to switch the payment method. Reported via portal, low priority, reference plan PRO, and this started after the latest release.",billing
+TCK-00806,"Hi team, Changes are not being saved. Sending details through portal, medium priority, reference service API, and this blocks our daily operations.",technical
+TCK-00807,"Urgent, One item is missing from the shipment. Sending details through phone, medium priority, reference tracking TRK-992, and this happens only on web.",shipping
+TCK-00808,"Hi team, The website is extremely slow. Reported via phone, high priority, reference CRM connector, and this happens only on web.",technical
+TCK-00809,"Quick request: The invoice total is incorrect. I opened this through email with low priority, reference plan PRO, and this is impacting customer response times.",billing
+TCK-00810,"Quick request, I am reporting this issue: File upload fails for PDFs. Channel phone, medium priority, reference service API, and this happens only on mobile.",technical
+TCK-00811,"Please help, File upload fails for PDFs. Sending details through email, medium priority, reference admin dashboard, and this started yesterday.",technical
+TCK-00812,"Please help, The payment failed but money was still taken. Reported via email, high priority, reference invoice INV-3044, and this affects multiple users.",billing
+TCK-00813,"Please help, The order is marked delivered but I did not receive it. Reported via email, low priority, reference order ORD-1102, and we need a fix today.",shipping
+TCK-00814,"Urgent, I am reporting this issue: A refund has not arrived yet. Channel portal, high priority, reference order ORD-5561, and this is impacting customer response times.",billing
+TCK-00815,"Good morning: I get logged out immediately. I opened this through phone with low priority, reference main tenant, and this started yesterday.",account_access
+TCK-00816,"Good afternoon: One item is missing from the shipment. I opened this through portal with medium priority, reference order ORD-1102, and this started yesterday.",shipping
+TCK-00817,"Good morning, I am reporting this issue: My password is rejected even after reset. Channel email, high priority, reference corporate domain, and this happens only on web.",account_access
+TCK-00818,"Good afternoon: I cannot enable two-factor authentication. I opened this through email with low priority, reference corporate domain, and this happens only on mobile.",account_access
+TCK-00819,"Good afternoon, The checkout page freezes during payment. Sending details through phone, high priority, reference service API, and we need a fix today.",technical
+TCK-00820,"Need assistance, I am reporting this issue: The app crashes when I open the dashboard. Channel chat, low priority, reference checkout module, and this started yesterday.",technical
+TCK-00821,"Urgent: The integration with our CRM is failing. I opened this through phone with high priority, reference CRM connector, and this is impacting customer response times.",technical
+TCK-00822,"Quick request: Tracking has not updated for days. I opened this through portal with medium priority, reference shipment SHP-9001, and this started yesterday.",shipping
+TCK-00823,"Quick request: I was billed for an add-on I did not enable. I opened this through phone with high priority, reference invoice INV-3044, and this happens only on web.",billing
+TCK-00824,"Please help, The app crashes when I open the dashboard. Reported via email, high priority, reference admin dashboard, and this started after the latest release.",technical
+TCK-00825,"Need assistance: The parcel box arrived open. I opened this through email with medium priority, reference tracking TRK-331, and we need a fix today.",shipping
+TCK-00826,"Good afternoon: I cannot enable two-factor authentication. I opened this through portal with low priority, reference user USR-441, and this started yesterday.",account_access
+TCK-00827,"Need assistance, The order is marked delivered but I did not receive it. Sending details through portal, medium priority, reference tracking TRK-992, and this started yesterday.",shipping
+TCK-00828,"Good afternoon, I am reporting this issue: The courier delivered to the wrong address. Channel phone, medium priority, reference shipment SHP-9001, and this happens only on web.",shipping
+TCK-00829,"Good morning: Notifications are delayed by several hours. I opened this through phone with high priority, reference admin dashboard, and this started after the latest release.",technical
+TCK-00830,"Good morning: I need to switch the payment method. I opened this through portal with high priority, reference plan PRO, and this blocks our daily operations.",billing
+TCK-00831,"Quick request: I cannot log in to my account. I opened this through chat with high priority, reference corporate domain, and this affects multiple users.",account_access
+TCK-00832,"Please help, The delivery date keeps changing. Sending details through portal, medium priority, reference tracking TRK-992, and this started yesterday.",shipping
+TCK-00833,"Hello support, I am reporting this issue: The invoice total is incorrect. Channel chat, medium priority, reference plan PRO, and this blocks our daily operations.",billing
+TCK-00834,"Good morning, The delivery date keeps changing. Reported via email, medium priority, reference shipment SHP-7654, and this blocks our daily operations.",shipping
+TCK-00835,"Quick request, I am reporting this issue: My account is locked. Channel email, low priority, reference corporate domain, and this happens only on mobile.",account_access
+TCK-00836,"Please help: The payment failed but money was still taken. I opened this through phone with high priority, reference invoice INV-1021, and this is impacting customer response times.",billing
+TCK-00837,"Hi team, The package arrived damaged. Reported via portal, high priority, reference tracking TRK-992, and this started after the latest release.",shipping
+TCK-00838,"Need assistance: The integration with our CRM is failing. I opened this through portal with low priority, reference service API, and this affects multiple users.",technical
+TCK-00839,"Please help: The integration with our CRM is failing. I opened this through phone with high priority, reference service API, and this blocks our daily operations.",technical
+TCK-00840,"Hello support: The order is marked delivered but I did not receive it. I opened this through phone with low priority, reference tracking TRK-992, and this happens only on web.",shipping
+TCK-00841,"Good afternoon, The two-factor code never arrives. Reported via portal, low priority, reference user USR-441, and this is impacting customer response times.",account_access
+TCK-00842,"Quick request, Changes are not being saved. Sending details through portal, high priority, reference service API, and this happens only on web.",technical
+TCK-00843,"Hi team, I am reporting this issue: I need an updated invoice with company tax ID. Channel email, medium priority, reference invoice INV-3044, and this started after the latest release.",billing
+TCK-00844,"Hi team, I am reporting this issue: The parcel box arrived open. Channel phone, low priority, reference shipment SHP-9001, and this started after the latest release.",shipping
+TCK-00845,"Urgent, The export button does nothing. Sending details through email, high priority, reference service API, and we need a fix today.",technical
+TCK-00846,"Hello support: The courier delivered to the wrong address. I opened this through portal with medium priority, reference shipment SHP-9001, and this affects multiple users.",shipping
+TCK-00847,"Good afternoon: The two-factor code never arrives. I opened this through chat with high priority, reference user USR-441, and we need a fix today.",account_access
+TCK-00848,"Need assistance: The export button does nothing. I opened this through chat with medium priority, reference web frontend, and this affects multiple users.",technical
+TCK-00849,"Need assistance: The screen is blank after login. I opened this through portal with high priority, reference service API, and this started after the latest release.",technical
+TCK-00850,"Good morning, The parcel box arrived open. Sending details through chat, low priority, reference order ORD-1102, and we need a fix today.",shipping
+TCK-00851,"Hello support, I need to change the delivery address. Sending details through phone, medium priority, reference tracking TRK-331, and this happens only on mobile.",shipping
+TCK-00852,"Need assistance, I am reporting this issue: File upload fails for PDFs. Channel chat, low priority, reference service API, and this happens only on mobile.",technical
+TCK-00853,"Please help, I need to change the delivery address. Sending details through phone, medium priority, reference shipment SHP-9001, and this happens only on mobile.",shipping
+TCK-00854,"Good afternoon, I am reporting this issue: Changes are not being saved. Channel email, high priority, reference service API, and this started after the latest release.",technical
+TCK-00855,"Hi team, I was billed for an add-on I did not enable. Sending details through phone, high priority, reference invoice INV-3044, and we need a fix today.",billing
+TCK-00856,"Quick request, The app crashes when I open the dashboard. Sending details through phone, low priority, reference CRM connector, and this happens only on mobile.",technical
+TCK-00857,"Hello support, I am reporting this issue: The package arrived damaged. Channel portal, low priority, reference order ORD-1102, and we need a fix today.",shipping
+TCK-00858,"Quick request: I need to switch the payment method. I opened this through portal with medium priority, reference plan PRO, and this happens only on web.",billing
+TCK-00859,"Need assistance: The invoice total is incorrect. I opened this through phone with high priority, reference invoice INV-1021, and this happens only on mobile.",billing
+TCK-00860,"Please help, I am reporting this issue: The checkout page freezes during payment. Channel email, high priority, reference CRM connector, and this is impacting customer response times.",technical
+TCK-00861,"Please help: The payment failed but money was still taken. I opened this through email with low priority, reference plan PRO, and this blocks our daily operations.",billing
+TCK-00862,"Good morning, I am reporting this issue: The export button does nothing. Channel phone, low priority, reference service API, and we need a fix today.",technical
+TCK-00863,"Good morning, I am reporting this issue: The invoice total is incorrect. Channel email, high priority, reference invoice INV-1021, and this happens only on mobile.",billing
+TCK-00864,"Hello support: I need to change the delivery address. I opened this through phone with high priority, reference tracking TRK-331, and we need a fix today.",shipping
+TCK-00865,"Need assistance, I was charged twice for my monthly plan. Reported via phone, low priority, reference invoice INV-1021, and this is impacting customer response times.",billing
+TCK-00866,"Please help, The order is marked delivered but I did not receive it. Sending details through email, low priority, reference shipment SHP-9001, and this started yesterday.",shipping
+TCK-00867,"Hello support, I need to change my login email. Sending details through email, high priority, reference corporate domain, and this started yesterday.",account_access
+TCK-00868,"Urgent, I am reporting this issue: The package arrived damaged. Channel chat, high priority, reference tracking TRK-331, and this started after the latest release.",shipping
+TCK-00869,"Hello support, I need an updated invoice with company tax ID. Sending details through email, low priority, reference invoice INV-3044, and this started yesterday.",billing
+TCK-00870,"Good afternoon, I am reporting this issue: I get a timeout when loading reports. Channel phone, medium priority, reference admin dashboard, and this started after the latest release.",technical
+TCK-00871,"Need assistance, I am reporting this issue: The export button does nothing. Channel chat, low priority, reference web frontend, and this happens only on web.",technical
+TCK-00872,"Please help: My user appears disabled. I opened this through chat with high priority, reference user USR-772, and this affects multiple users.",account_access
+TCK-00873,"Urgent, Sign in fails on mobile but works on web. Reported via phone, medium priority, reference corporate domain, and this affects multiple users.",account_access
+TCK-00874,"Quick request, I am reporting this issue: Notifications are delayed by several hours. Channel phone, low priority, reference CRM connector, and this blocks our daily operations.",technical
+TCK-00875,"Please help, File upload fails for PDFs. Sending details through phone, high priority, reference checkout module, and this started yesterday.",technical
+TCK-00876,"Urgent, I am reporting this issue: The export button does nothing. Channel chat, medium priority, reference web frontend, and this started after the latest release.",technical
+TCK-00877,"Good morning, The website is extremely slow. Sending details through email, high priority, reference admin dashboard, and this happens only on mobile.",technical
+TCK-00878,"Hello support, The export button does nothing. Reported via chat, high priority, reference admin dashboard, and this happens only on web.",technical
+TCK-00879,"Hello support: The payment failed but money was still taken. I opened this through email with high priority, reference subscription SUB-8840, and this started yesterday.",billing
+TCK-00880,"Hello support, I am reporting this issue: Notifications are delayed by several hours. Channel portal, high priority, reference admin dashboard, and this happens only on web.",technical
+TCK-00881,"Good afternoon, The checkout page freezes during payment. Sending details through phone, low priority, reference admin dashboard, and this blocks our daily operations.",technical
+TCK-00882,"Good afternoon: The courier delivered to the wrong address. I opened this through email with high priority, reference shipment SHP-9001, and this is impacting customer response times.",shipping
+TCK-00883,"Urgent, My password is rejected even after reset. Sending details through portal, medium priority, reference sales team, and we need a fix today.",account_access
+TCK-00884,"Hello support, Sign in fails on mobile but works on web. Reported via email, high priority, reference main tenant, and this happens only on web.",account_access
+TCK-00885,"Urgent: The order is marked delivered but I did not receive it. I opened this through chat with low priority, reference tracking TRK-331, and this affects multiple users.",shipping
+TCK-00886,"Good morning, My password is rejected even after reset. Reported via portal, low priority, reference corporate domain, and this is impacting customer response times.",account_access
+TCK-00887,"Hi team, I am reporting this issue: SSO login is failing for my team. Channel email, medium priority, reference main tenant, and this is impacting customer response times.",account_access
+TCK-00888,"Good morning, The API returns a 500 error. Sending details through chat, medium priority, reference admin dashboard, and this happens only on web.",technical
+TCK-00889,"Good afternoon, I am reporting this issue: The checkout page freezes during payment. Channel chat, medium priority, reference checkout module, and this is impacting customer response times.",technical
+TCK-00890,"Hello support, My user appears disabled. Sending details through email, low priority, reference sales team, and this happens only on web.",account_access
+TCK-00891,"Quick request, I am reporting this issue: There is an unknown charge on my card. Channel chat, medium priority, reference order ORD-5561, and this blocks our daily operations.",billing
+TCK-00892,"Hi team, The invoice total is incorrect. Reported via chat, low priority, reference invoice INV-3044, and this happens only on web.",billing
+TCK-00893,"Hi team, I am reporting this issue: The package arrived damaged. Channel portal, low priority, reference shipment SHP-9001, and this started after the latest release.",shipping
+TCK-00894,"Hello support: My discount was not applied. I opened this through phone with high priority, reference invoice INV-3044, and we need a fix today.",billing
+TCK-00895,"Quick request, I am reporting this issue: The payment failed but money was still taken. Channel phone, medium priority, reference subscription SUB-8840, and this happens only on web.",billing
+TCK-00896,"Urgent: Search returns no results. I opened this through email with low priority, reference checkout module, and this happens only on mobile.",technical
+TCK-00897,"Hi team: Notifications are delayed by several hours. I opened this through chat with low priority, reference checkout module, and this started yesterday.",technical
+TCK-00898,"Good morning, My password is rejected even after reset. Reported via chat, low priority, reference main tenant, and this happens only on mobile.",account_access
+TCK-00899,"Please help: Notifications are delayed by several hours. I opened this through portal with medium priority, reference CRM connector, and this started after the latest release.",technical
+TCK-00900,"Urgent, Tracking has not updated for days. Sending details through email, low priority, reference shipment SHP-9001, and this started yesterday.",shipping
+TCK-00901,"Good afternoon: The courier delivered to the wrong address. I opened this through chat with low priority, reference tracking TRK-331, and this affects multiple users.",shipping
+TCK-00902,"Good morning, The website is extremely slow. Reported via phone, medium priority, reference CRM connector, and this blocks our daily operations.",technical
+TCK-00903,"Please help, I am reporting this issue: The package arrived damaged. Channel email, low priority, reference tracking TRK-331, and this blocks our daily operations.",shipping
+TCK-00904,"Urgent, One item is missing from the shipment. Sending details through email, high priority, reference tracking TRK-992, and this happens only on mobile.",shipping
+TCK-00905,"Urgent: The checkout page freezes during payment. I opened this through portal with low priority, reference admin dashboard, and we need a fix today.",technical
+TCK-00906,"Hello support: The screen is blank after login. I opened this through email with high priority, reference admin dashboard, and this started yesterday.",technical
+TCK-00907,"Hi team, The payment failed but money was still taken. Sending details through chat, high priority, reference order ORD-5561, and this happens only on mobile.",billing
+TCK-00908,"Hello support, Tracking has not updated for days. Reported via portal, low priority, reference shipment SHP-9001, and this started yesterday.",shipping
+TCK-00909,"Hi team, There is an unknown charge on my card. Reported via phone, high priority, reference invoice INV-3044, and we need a fix today.",billing
+TCK-00910,"Please help: I need to change my login email. I opened this through email with medium priority, reference corporate domain, and this happens only on mobile.",account_access
+TCK-00911,"Good afternoon, The order is marked delivered but I did not receive it. Reported via phone, medium priority, reference shipment SHP-7654, and this affects multiple users.",shipping
+TCK-00912,"Quick request: The website is extremely slow. I opened this through email with low priority, reference web frontend, and this is impacting customer response times.",technical
+TCK-00913,"Hello support, The website is extremely slow. Reported via chat, high priority, reference CRM connector, and we need a fix today.",technical
+TCK-00914,"Good afternoon, I am reporting this issue: One item is missing from the shipment. Channel phone, low priority, reference tracking TRK-331, and we need a fix today.",shipping
+TCK-00915,"Quick request: The parcel box arrived open. I opened this through portal with medium priority, reference shipment SHP-7654, and this blocks our daily operations.",shipping
+TCK-00916,"Urgent, The parcel box arrived open. Sending details through email, low priority, reference shipment SHP-7654, and this is impacting customer response times.",shipping
+TCK-00917,"Quick request, Customs hold has delayed my package. Reported via email, medium priority, reference order ORD-1102, and this happens only on web.",shipping
+TCK-00918,"Urgent, I cannot log in to my account. Reported via chat, high priority, reference sales team, and we need a fix today.",account_access
+TCK-00919,"Hello support: The password reset link expired. I opened this through portal with high priority, reference main tenant, and this blocks our daily operations.",account_access
+TCK-00920,"Hi team: I received the wrong product. I opened this through phone with high priority, reference tracking TRK-992, and this happens only on web.",shipping
+TCK-00921,"Hi team, The delivery date keeps changing. Sending details through email, medium priority, reference order ORD-1102, and this affects multiple users.",shipping
+TCK-00922,"Urgent, I need an updated invoice with company tax ID. Sending details through email, high priority, reference plan PRO, and this happens only on web.",billing
+TCK-00923,"Need assistance: Sign in fails on mobile but works on web. I opened this through chat with high priority, reference user USR-772, and we need a fix today.",account_access
+TCK-00924,"Need assistance, Notifications are delayed by several hours. Sending details through phone, low priority, reference service API, and this started yesterday.",technical
+TCK-00925,"Please help, File upload fails for PDFs. Sending details through chat, medium priority, reference service API, and this started after the latest release.",technical
+TCK-00926,"Urgent, The courier delivered to the wrong address. Reported via email, high priority, reference shipment SHP-7654, and this is impacting customer response times.",shipping
+TCK-00927,"Urgent, The screen is blank after login. Sending details through email, low priority, reference service API, and this is impacting customer response times.",technical
+TCK-00928,"Please help, My account is locked. Reported via email, medium priority, reference main tenant, and this happens only on web.",account_access
+TCK-00929,"Good morning, The integration with our CRM is failing. Reported via phone, high priority, reference web frontend, and this happens only on mobile.",technical
+TCK-00930,"Hello support: The package arrived damaged. I opened this through email with low priority, reference tracking TRK-992, and this started after the latest release.",shipping
+TCK-00931,"Quick request, The payment failed but money was still taken. Sending details through email, high priority, reference plan PRO, and this blocks our daily operations.",billing
+TCK-00932,"Quick request: One item is missing from the shipment. I opened this through phone with high priority, reference order ORD-1102, and we need a fix today.",shipping
+TCK-00933,"Quick request: The two-factor code never arrives. I opened this through phone with medium priority, reference user USR-772, and this started after the latest release.",account_access
+TCK-00934,"Quick request, I cannot enable two-factor authentication. Reported via email, high priority, reference user USR-772, and this is impacting customer response times.",account_access
+TCK-00935,"Good afternoon, My user appears disabled. Sending details through chat, medium priority, reference corporate domain, and this happens only on mobile.",account_access
+TCK-00936,"Quick request: My account is locked. I opened this through portal with medium priority, reference user USR-772, and this is impacting customer response times.",account_access
+TCK-00937,"Need assistance: The parcel box arrived open. I opened this through email with low priority, reference tracking TRK-331, and this started after the latest release.",shipping
+TCK-00938,"Urgent, The courier delivered to the wrong address. Sending details through chat, medium priority, reference shipment SHP-9001, and this blocks our daily operations.",shipping
+TCK-00939,"Good morning, I am reporting this issue: I was charged twice for my monthly plan. Channel phone, low priority, reference plan PRO, and this affects multiple users.",billing
+TCK-00940,"Urgent: I was charged twice for my monthly plan. I opened this through chat with medium priority, reference invoice INV-1021, and this affects multiple users.",billing
+TCK-00941,"Please help, I am reporting this issue: I was charged twice for my monthly plan. Channel phone, low priority, reference plan PRO, and this is impacting customer response times.",billing
+TCK-00942,"Hello support, I get a timeout when loading reports. Sending details through phone, medium priority, reference admin dashboard, and this started after the latest release.",technical
+TCK-00943,"Hi team, The app crashes when I open the dashboard. Sending details through portal, high priority, reference service API, and we need a fix today.",technical
+TCK-00944,"Hi team, The checkout page freezes during payment. Reported via chat, high priority, reference web frontend, and this is impacting customer response times.",technical
+TCK-00945,"Please help, I am reporting this issue: I cannot log in to my account. Channel portal, low priority, reference user USR-772, and this started yesterday.",account_access
+TCK-00946,"Urgent, Notifications are delayed by several hours. Sending details through email, high priority, reference service API, and this is impacting customer response times.",technical
+TCK-00947,"Urgent: The API returns a 500 error. I opened this through chat with low priority, reference CRM connector, and this affects multiple users.",technical
+TCK-00948,"Hello support: The app crashes when I open the dashboard. I opened this through phone with medium priority, reference web frontend, and this happens only on web.",technical
+TCK-00949,"Need assistance, The payment failed but money was still taken. Reported via email, low priority, reference order ORD-5561, and this happens only on mobile.",billing
+TCK-00950,"Hi team, I cannot enable two-factor authentication. Sending details through email, medium priority, reference main tenant, and this started yesterday.",account_access
+TCK-00951,"Hello support, SSO login is failing for my team. Reported via portal, high priority, reference main tenant, and we need a fix today.",account_access
+TCK-00952,"Hi team, The API returns a 500 error. Reported via phone, low priority, reference service API, and this happens only on mobile.",technical
+TCK-00953,"Quick request: The payment failed but money was still taken. I opened this through chat with medium priority, reference invoice INV-1021, and this happens only on mobile.",billing
+TCK-00954,"Good morning, I am reporting this issue: I cannot log in to my account. Channel phone, high priority, reference sales team, and we need a fix today.",account_access
+TCK-00955,"Hi team, I am reporting this issue: A refund has not arrived yet. Channel portal, low priority, reference order ORD-5561, and we need a fix today.",billing
+TCK-00956,"Hi team, I received the wrong product. Reported via chat, medium priority, reference tracking TRK-331, and this is impacting customer response times.",shipping
+TCK-00957,"Good afternoon, I need to change the delivery address. Sending details through phone, low priority, reference tracking TRK-992, and this affects multiple users.",shipping
+TCK-00958,"Hi team: I cannot complete email verification. I opened this through email with high priority, reference sales team, and this is impacting customer response times.",account_access
+TCK-00959,"Hi team: I need to change my login email. I opened this through email with medium priority, reference sales team, and this affects multiple users.",account_access
+TCK-00960,"Good afternoon, Search returns no results. Sending details through portal, high priority, reference service API, and we need a fix today.",technical
+TCK-00961,"Hello support, I am reporting this issue: The delivery date keeps changing. Channel email, high priority, reference order ORD-1102, and this is impacting customer response times.",shipping
+TCK-00962,"Quick request, The app crashes when I open the dashboard. Reported via phone, medium priority, reference checkout module, and this affects multiple users.",technical
+TCK-00963,"Good morning, My order has not been delivered. Sending details through email, high priority, reference tracking TRK-331, and this affects multiple users.",shipping
+TCK-00964,"Good afternoon, I am reporting this issue: The parcel box arrived open. Channel chat, medium priority, reference order ORD-1102, and we need a fix today.",shipping
+TCK-00965,"Good morning, The package arrived damaged. Sending details through chat, high priority, reference order ORD-1102, and we need a fix today.",shipping
+TCK-00966,"Urgent, The courier asked for an unexpected fee. Reported via email, medium priority, reference tracking TRK-331, and this started yesterday.",shipping
+TCK-00967,"Need assistance, Notifications are delayed by several hours. Sending details through portal, medium priority, reference CRM connector, and this is impacting customer response times.",technical
+TCK-00968,"Good afternoon: My annual plan renewed at the wrong price. I opened this through portal with medium priority, reference subscription SUB-8840, and we need a fix today.",billing
+TCK-00969,"Need assistance, I am reporting this issue: The website is extremely slow. Channel portal, medium priority, reference CRM connector, and this affects multiple users.",technical
+TCK-00970,"Quick request, I am reporting this issue: I cannot log in to my account. Channel email, low priority, reference corporate domain, and this started yesterday.",account_access
+TCK-00971,"Good morning, My order has not been delivered. Reported via phone, medium priority, reference shipment SHP-9001, and this is impacting customer response times.",shipping
+TCK-00972,"Need assistance, I cannot enable two-factor authentication. Reported via portal, low priority, reference user USR-772, and this affects multiple users.",account_access
+TCK-00973,"Hi team: The package arrived damaged. I opened this through phone with low priority, reference shipment SHP-9001, and we need a fix today.",shipping
+TCK-00974,"Please help, My account is locked. Sending details through phone, medium priority, reference sales team, and this started yesterday.",account_access
+TCK-00975,"Good afternoon, I need to change the delivery address. Reported via chat, high priority, reference shipment SHP-7654, and this happens only on web.",shipping
+TCK-00976,"Please help: I need to switch the payment method. I opened this through email with low priority, reference order ORD-5561, and this started after the latest release.",billing
+TCK-00977,"Quick request: The two-factor code never arrives. I opened this through email with medium priority, reference main tenant, and this is impacting customer response times.",account_access
+TCK-00978,"Urgent, I am reporting this issue: My annual plan renewed at the wrong price. Channel email, low priority, reference subscription SUB-8840, and we need a fix today.",billing
+TCK-00979,"Please help: I need to change the delivery address. I opened this through chat with low priority, reference shipment SHP-9001, and this affects multiple users.",shipping
+TCK-00980,"Quick request, I received the wrong product. Sending details through phone, high priority, reference order ORD-1102, and this affects multiple users.",shipping
+TCK-00981,"Urgent, I am reporting this issue: The export button does nothing. Channel phone, high priority, reference CRM connector, and this started yesterday.",technical
+TCK-00982,"Good afternoon, A refund has not arrived yet. Reported via portal, medium priority, reference order ORD-5561, and this blocks our daily operations.",billing
+TCK-00983,"Good morning, The website is extremely slow. Reported via email, high priority, reference admin dashboard, and this started after the latest release.",technical
+TCK-00984,"Need assistance: Tracking has not updated for days. I opened this through email with medium priority, reference shipment SHP-9001, and this started after the latest release.",shipping
+TCK-00985,"Hi team, The courier asked for an unexpected fee. Sending details through portal, high priority, reference tracking TRK-992, and this affects multiple users.",shipping
+TCK-00986,"Need assistance, I am reporting this issue: File upload fails for PDFs. Channel portal, low priority, reference checkout module, and this blocks our daily operations.",technical
+TCK-00987,"Please help, I am reporting this issue: I was billed for an add-on I did not enable. Channel email, medium priority, reference subscription SUB-8840, and this started after the latest release.",billing
+TCK-00988,"Good afternoon: I need to switch the payment method. I opened this through email with low priority, reference invoice INV-3044, and this happens only on web.",billing
+TCK-00989,"Good morning, I am reporting this issue: The order is marked delivered but I did not receive it. Channel email, low priority, reference shipment SHP-9001, and we need a fix today.",shipping
+TCK-00990,"Hi team, Tracking has not updated for days. Reported via phone, low priority, reference order ORD-1102, and this blocks our daily operations.",shipping
+TCK-00991,"Urgent, I need an updated invoice with company tax ID. Sending details through portal, high priority, reference subscription SUB-8840, and this affects multiple users.",billing
+TCK-00992,"Please help, Sign in fails on mobile but works on web. Sending details through portal, high priority, reference sales team, and this happens only on web.",account_access
+TCK-00993,"Urgent, The payment failed but money was still taken. Sending details through email, low priority, reference plan PRO, and this happens only on web.",billing
+TCK-00994,"Hi team, I cannot complete email verification. Reported via portal, high priority, reference user USR-772, and this happens only on mobile.",account_access
+TCK-00995,"Good morning: The VAT amount is wrong on the invoice. I opened this through portal with low priority, reference invoice INV-3044, and we need a fix today.",billing
+TCK-00996,"Hi team, There is an unknown charge on my card. Reported via email, high priority, reference plan PRO, and this started after the latest release.",billing
+TCK-00997,"Good afternoon, The VAT amount is wrong on the invoice. Reported via phone, high priority, reference invoice INV-1021, and this happens only on web.",billing
+TCK-00998,"Hello support: My user appears disabled. I opened this through phone with low priority, reference user USR-441, and this happens only on mobile.",account_access
+TCK-00999,"Quick request: The order is marked delivered but I did not receive it. I opened this through phone with low priority, reference order ORD-1102, and this started after the latest release.",shipping
+TCK-01000,"Quick request, The VAT amount is wrong on the invoice. Sending details through chat, high priority, reference invoice INV-1021, and this is impacting customer response times.",billing

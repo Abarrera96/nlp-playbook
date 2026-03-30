@@ -1,0 +1,16 @@
+query,expected_doc_id
+How do I recover my account password?,faq_01
+When are monthly bills created?,faq_02
+Can I change delivery address after ordering?,faq_03
+Where can I activate MFA?,faq_04
+How long do refund checks take?,faq_05
+What is the API requests-per-minute cap?,faq_06
+Does the platform support SSO?,faq_07
+How can I download audit events?,faq_08
+Where do I add a new teammate?,faq_09
+How are webhook failures retried?,faq_10
+Where can I define data retention rules?,faq_11
+Which plans include priority support?,faq_12
+Can I create custom permission roles?,faq_13
+Do you support JIT provisioning with SAML?,faq_14
+Is EU data residency available?,faq_15

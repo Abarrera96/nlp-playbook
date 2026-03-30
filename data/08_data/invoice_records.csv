@@ -1,0 +1,4 @@
+invoice_id,vendor,address,invoice_date,due_date,customer,item_a,item_a_amount,item_b,item_b_amount,tax_rate,tax_amount,total_amount
+INV-2026-0451,Northwind Services Ltd.,"42 Market Street, Madrid, Spain",2026-03-14,2026-04-14,Fabrikam Retail Europe,NLP Setup,820.0,Support Services,450.0,21%,266.7,1536.7
+INV-2026-0518,Orion Data Consulting,"88 King Road, London, UK",2026-04-01,2026-05-01,Contoso Operations,Model Audit,950.0,Monitoring Setup,520.0,20%,294.0,1764.0
+INV-2026-0607,Apex Automation GmbH,"12 Ring Avenue, Berlin, Germany",2026-05-11,2026-06-11,Litware Manufacturing,OCR Pipeline,1100.0,Maintenance Pack,600.0,19%,323.0,2023.0
